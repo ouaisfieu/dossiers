@@ -53,6 +53,18 @@ pdf: "dossier.pdf"
 
 ## Résumé : *La guerre économique et ses répercussions sur la société civile aux XXe et XXIe siècles*
 
+Ce dossier examine la notion de guerre économique comme forme de conflit non militaire, mais profondément stratégique, déployée à l’échelle internationale par des moyens financiers, commerciaux, technologiques ou informationnels. Il montre comment cette guerre silencieuse produit des effets considérables sur les États comme sur les sociétés civiles, souvent sans que les citoyens en aient pleinement conscience.
+
+Historiquement, les outils de la guerre économique ne sont pas nouveaux : embargos, monopoles, manipulation des monnaies ont toujours servi à affaiblir l’adversaire sans recourir aux armes. Toutefois, à partir du XXe siècle, et plus encore dans le contexte post-Guerre froide et mondialisé, ces moyens se sont sophistiqués et multipliés. Les sanctions économiques, les cyberattaques, les guerres commerciales et la maîtrise des normes techniques sont devenues les nouvelles armes d’un affrontement global.
+
+Loin d’être abstraite, cette guerre affecte directement la société civile. Elle fragilise les économies locales, désorganise les filières de production, et contribue à la précarisation des classes populaires. En paralysant certains secteurs ou en imposant des choix budgétaires contraints (comme dans le cas de la Grèce face à la zone euro), elle réduit la marge de manœuvre démocratique et accentue les inégalités.
+
+Le dossier souligne également l’ascension d’acteurs non étatiques puissants — notamment les grandes firmes technologiques — capables d’imposer leurs règles, en marge des souverainetés traditionnelles. Cette privatisation du pouvoir économique accentue l’asymétrie entre les citoyens et les structures qui influencent leur quotidien.
+
+Face à cette situation, l’auteur insiste sur l’urgence de renforcer les moyens de résistance démocratique. Cela passe par la souveraineté numérique, l’éducation critique à l’économie, la mobilisation citoyenne autour d’enjeux économiques, et la redéfinition des priorités à travers des formes d’économie plus justes et ancrées localement.
+
+En somme, ce texte montre que la guerre économique, bien qu’invisible, est omniprésente, et qu’elle constitue l’un des défis majeurs de notre époque pour les sociétés désireuses de préserver leur autonomie, leur justice sociale et leur capacité à décider collectivement de leur avenir.
+
 ### 🏰 1. Définition et contexte historique
 
 - **Guerre économique** : ensemble de moyens non militaires utilisés pour affaiblir un adversaire (sanctions, embargos, restrictions technologiques, guerres commerciales).
