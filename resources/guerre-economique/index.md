@@ -51,6 +51,53 @@ pdf: "dossier.pdf"
   loading="lazy">
 </iframe>
 
+## Résumé : *La guerre économique et ses répercussions sur la société civile aux XXe et XXIe siècles*
+
+### 🏰 1. Définition et contexte historique
+
+- **Guerre économique** : ensemble de moyens non militaires utilisés pour affaiblir un adversaire (sanctions, embargos, restrictions technologiques, guerres commerciales).
+- **Origines anciennes** : déjà présente dans l’Antiquité et le Moyen Âge (blocus, monopoles).
+- **XXe siècle** : intensification avec la mondialisation, les deux guerres mondiales, puis la Guerre froide.
+- **XXIe siècle** : montée en puissance d’outils invisibles (cyberattaques, normes, brevets).
+
+### 💼 2. Instruments contemporains de la guerre économique
+
+- **Sanctions économiques** : utilisées pour isoler ou affaiblir un État sans conflit armé (Iran, Russie…).
+- **Espionnage industriel** : vols de données stratégiques, surveillance numérique.
+- **Cyberattaques** : sabotage d’infrastructures, manipulation de marchés, attaques sur les chaînes d’approvisionnement.
+- **Soft power normatif** : imposition de normes (techniques, juridiques, commerciales) comme armes de domination.
+- **Monnaie comme arme** : usage du dollar ou de l’euro pour exclure, contrôler ou sanctionner.
+
+### 🧱 3. Répercussions sur la société civile
+
+- **Perte de souveraineté** : dépendance technologique et économique accrue des États.
+- **Précarisation sociale** : destructions d’emplois, fermeture d’entreprises locales, dumping social.
+- **Manipulation de l’opinion** : guerre cognitive et influence sur les récits publics.
+- **Criminalisation des alternatives** : les acteurs économiques alternatifs (coopératives, circuits courts) perçus comme marginaux voire menaçants.
+- **Renforcement des inégalités** : les logiques de guerre économique profitent à quelques puissances privées ou publiques au détriment des populations.
+
+### 🌐 4. Exemples concrets
+
+- **Huawei vs. États-Unis** : bannissement, restrictions technologiques.
+- **Sanctions contre la Russie** : effets sur les prix de l’énergie et les populations européennes.
+- **Zone euro et Grèce** : austérité imposée, perte de souveraineté budgétaire.
+- **Chine-Afrique** : diplomatie économique à double tranchant (infrastructures contre dépendance).
+- **GAFAM** : rôle ambigu comme puissances transnationales capables d’imposer leurs règles.
+
+### 🔧 5. Résistances et pistes d’action
+
+- **Souveraineté numérique** : relocalisation des infrastructures, open source, encryption.
+- **Justice économique** : renforcement des droits sociaux, fiscalité équitable, redistribution.
+- **Éducation critique** : former à comprendre les logiques économiques et leurs impacts.
+- **Mobilisation citoyenne** : actions locales, campagnes de boycott, circuits alternatifs.
+- **Institutions internationales** : nécessaire réforme pour plus d’équité et de régulation globale.
+
+### ⚖️ Conclusion
+
+La guerre économique n’est pas un phénomène marginal : elle **structure profondément les relations internationales et les rapports sociaux internes**. Invisible mais destructrice, elle appelle à une prise de conscience citoyenne et à une reconquête des moyens d’agir, par l’éducation, la relocalisation, et des formes nouvelles de coopération.
+
+
+
 ## Lien externe
 
 ouaisfi.eu : [une bonne guerre ?](https://ouaisfi.eu/viewtopic.php?t=86&sid=12d1c28d21fb53a6dee6605c37f5d062)
