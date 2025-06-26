@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide 
 title: "Pourquoi ce dépôt ?"
 date: 2025-06-26
 categories: [meta]
