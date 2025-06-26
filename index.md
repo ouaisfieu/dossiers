@@ -1,7 +1,7 @@
 ---
 layout: home          # ou "splash" si tu préfères
 classes: wide 
-title: "La citoyenneté, c'est le brol."
+title: ""
 permalink: /
 header:
   overlay_image: "assets/img/cover.jpg"   # chemin **sans** “/” initial → sera préfixé par {{ site.baseurl }}
