@@ -52,4 +52,4 @@ pdf: "dossier.pdf"
 
 ## Lien externe
 
-[lien](https://ouaisfi.eu/viewtopic.php?p=701&sid=12d1c28d21fb53a6dee6605c37f5d062#p701)
+[lien : ouaisfi.eu](https://ouaisfi.eu/viewtopic.php?p=701&sid=12d1c28d21fb53a6dee6605c37f5d062#p701)
