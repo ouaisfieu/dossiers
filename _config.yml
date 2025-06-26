@@ -1,41 +1,27 @@
-# Site settings
 title: "Mes ressources"
 description: "Une collection de fiches de lecture et de ressources pédagogiques"
-url: "https://ouaisfieu.github.io"   # Remplacez par votre nom d'utilisateur GitHub
-baseurl: ""              # Laissez vide pour un site à la racine
 
-# --- Thème ----------------------------------------------------------
-#
-# Par défaut, on utilise Minimal Mistakes comme remote_theme.
-# Pour tester un autre thème, décommentez la ligne correspondante
-# et commentez les autres.
+# --- URLs --------------------------------------------------------------
+url: "https://ouaisfieu.github.io"   # racine de tes pages GitHub
+baseurl: "/dossiers"                 # nom exact de ton dépôt (avec /)
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.1"   # Minimal Mistakes
-theme: null  # nécessaire pour éviter conflit avec thème par défaut GitHub
+# --- Thème -------------------------------------------------------------
+remote_theme: "mmistakes/minimal-mistakes@4.26.1"
+theme: null          # évite le conflit avec le thème par défaut GitHub
+minimal_mistakes_skin: "aqua"   # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
 
-
-# remote_theme: "just-the-docs/just-the-docs"         # Just the Docs
-# remote_theme: "mmistakes/so-simple-theme"           # So Simple
-
-
-
-# Choisissez un jeu de couleurs (skins) Minimal Mistakes :
-# default, air, aqua, contrast, dark, dirt, neon, plum, mint
-minimal_mistakes_skin: "neon"
-
-# --- Plugins GitHub Pages compatibles -------------------------------
+# --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
 
-# --- Collections ----------------------------------------------------
+# --- Collections ------------------------------------------------------
 collections:
   resources:
     output: true
     permalink: /resources/:path/
 
-# --- Options diverses ----------------------------------------------
 search: true
 markdown: kramdown
