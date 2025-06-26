@@ -37,19 +37,15 @@ pdf: "dossier.pdf"
 
 ---
 
-## Télécharger ou consulter
+<!-- Bouton de téléchargement, facultatif -->
+<p><a class="btn btn--primary" href="{{ 'dossier.pdf' | relative_url }}">
+   💾 Télécharger le PDF
+</a></p>
 
-* **[💾 Télécharger le PDF](dossier.pdf)**  
-*Ou* le lire en ligne :
-
-
-{% capture pdf_fullpath %}
-  {{ page.url | relative_url }}{{ page.pdf }}
-{% endcapture %}
-
+<!-- Affichage dans le lecteur PDF intégré du navigateur -->
 <iframe
-  src="{{ 'dossier.pdf' | relative_url }}"
-  style="width:100%;height:700px;border:none"
+  src="{{ 'dossier.pdf' | relative_url }}#toolbar=1"
+  style="width:100%; height:700px; border:none;"
   loading="lazy">
 </iframe>
 
