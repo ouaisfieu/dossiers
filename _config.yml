@@ -1,16 +1,8 @@
-# _config.yml
-
-# --- Métadonnées du site -----------------------------------------------
 title: "ouaisfi.eu"
 description: "La citoyenneté, c'est le brol"
-
-# --- URLs --------------------------------------------------------------
 url: "https://ouaisfieu.github.io"  
 baseurl: "/dossiers"                 
-
-# --- Thème -------------------------------------------------------------
 remote_theme: "mmistakes/minimal-mistakes"
-theme: null          
 minimal_mistakes_skin: "neon" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
 theme_skin_toggle: true
 
