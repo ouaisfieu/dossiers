@@ -13,7 +13,7 @@ tags:
   - comparaison
 layout: single
 classes: wide
-image: /dossiers/assets/img/societe-controle-frictions.jpg
+image: /dossiers/assets/img/head.jpg
 header:
   overlay_image: /dossiers/assets/img/societe-controle-frictions.jpg
   overlay_filter: 0.3
