@@ -9,7 +9,7 @@ pdf: "dossier.pdf"
 ---
 
 > *« La guerre économique est l’art de briser un adversaire sans tirer un coup de feu –  
-> mais ce sont pourtant les civils qui encaissent la première salve. »* :contentReference[oaicite:7]{index=7}
+> mais ce sont pourtant les civils qui encaissent la première salve. »*
 
 ## Structure du dossier
 
@@ -27,11 +27,11 @@ pdf: "dossier.pdf"
 
 ## Points saillants
 
-* **+900 %** : explosion du nombre de régimes de sanctions américaines depuis 2000 :contentReference[oaicite:8]{index=8}  
-* **Effet boomerang** : tarifs USA-Chine payés à ~100 % par les consommateurs US (hausse des prix, 245 000 emplois perdus) :contentReference[oaicite:9]{index=9}  
-* **Crises humanitaires** : sanctions Irak (1990-2003) → >500 000 décès infantiles estimés ; Venezuela (2017-18) : +40 000 morts supplémentaires :contentReference[oaicite:10]{index=10}  
-* **Weaponized interdependence** : domination US sur SWIFT, contrôle chinois des terres rares ; la dépendance devient arme. :contentReference[oaicite:11]{index=11}  
-* **Fragmentation du commerce** : FMI/OMC projettent jusqu’à –12 % de PIB dans certains scénarios de « découplage ». :contentReference[oaicite:12]{index=12}  
+* **+900 %** : explosion du nombre de régimes de sanctions américaines depuis 2000 
+* **Effet boomerang** : tarifs USA-Chine payés à ~100 % par les consommateurs US (hausse des prix, 245 000 emplois perdus) 
+* **Crises humanitaires** : sanctions Irak (1990-2003) → >500 000 décès infantiles estimés ; Venezuela (2017-18) : +40 000 morts supplémentaires 
+* **Weaponized interdependence** : domination US sur SWIFT, contrôle chinois des terres rares ; la dépendance devient arme. 
+* **Fragmentation du commerce** : FMI/OMC projettent jusqu’à –12 % de PIB dans certains scénarios de « découplage ». 
 
 ---
 
@@ -50,3 +50,7 @@ pdf: "dossier.pdf"
   style="border:none;"
   loading="lazy">
 </iframe>
+
+## Lien externe
+
+ouaisfi.eu : [une bonne guerre ?](https://ouaisfi.eu/viewtopic.php?t=86&sid=12d1c28d21fb53a6dee6605c37f5d062)
