@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Pourquoi ce dépôt ?"
+date: 2025-06-26
+categories: [meta]
+tags: [partage, recherche, intelligence-artificielle, ouverture, documentation]
+---
+
+En un mot : **partage**.
+
+Ce dépôt est né d’un besoin très simple et très humain : **faire circuler ce que l’intelligence artificielle m’aide à comprendre**, produire, organiser. Parce que ce n’est pas un projet de recherche au sens universitaire du terme, mais bel et bien une **exploration permanente**, à la croisée de la documentation, de la vulgarisation, et de la réflexion critique.
+
+---
+
+### 🔍 Une recherche pas comme les autres
+
+Il ne s’agit pas d’une recherche classique :  
+> je ne suis ni professeur, ni chercheur, ni expert.
+
+Mais je m’appuie sur des outils puissants – dont ChatGPT – pour **approfondir des sujets qui me tiennent à cœur** :  
+- information, pouvoir d’agir et citoyenneté,  
+- technologies et leurs usages sociaux,  
+- documentation, démocratie, accès libre à la connaissance,  
+- et tout ce qui permet de penser autrement le monde.
+
+Ce dépôt est **la trace de cette démarche**.
+
+---
+
+### 🤝 Une logique d’accès libre
+
+Tout ce que je partage ici est destiné à être lu, critiqué, détourné, amélioré.
+
+Il n’y a pas de verrou, pas d’ambition commerciale.  
+Juste **l’envie de donner forme à des idées**,  
+et de **les laisser vivre ailleurs**, dans d’autres esprits.
+
+---
+
+### 🟢 Une intelligence hybride
+
+Ce que tu liras ici est souvent le fruit d’un **dialogue entre moi et une intelligence artificielle**.
+
+- Je pose des questions, j’explore des hypothèses.
+- L’IA synthétise, propose, et me pousse à aller plus loin.
+- J’édite, je corrige, je structure.
+- Puis je publie, parce que c’est **précisément dans le partage** que cette démarche prend tout son sens.
+
+---
+
+### 📚 Et maintenant ?
+
+Ce premier billet sert de **repère**, de **point d’entrée**.  
+Tu trouveras dans les prochaines publications des **dossiers complets**, des synthèses, parfois brutes, parfois rédigées.
+
+**À toi de te servir. Et pourquoi pas, de contribuer.**
+
+---
+
+> _“Chercher, c’est douter. Partager, c’est commencer à comprendre.”_
+
