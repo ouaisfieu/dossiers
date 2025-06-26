@@ -1,5 +1,5 @@
 ---
-title: "Comprendre l’évolution des échanges : de l’« intelligence » à la « stupidité » économiques"
+title: "Comprendre l’évolution des échanges : de l’« intelligence » à la « stupidité » économique"
 date: 2025-06-26
 layout: single
 classes: wide
@@ -8,7 +8,7 @@ tags: ["Troc", "Monnaie", "Finance", "Spéculation", "Modèles alternatifs"]
 pdf: "dossier.pdf"
 ---
 
-> *« Chaque saut technologique a promis l’abondance ; mal maîtrisé, il a aussi enfanté crises et inégalités. »* :contentReference[oaicite:7]{index=7}  
+> *« Chaque saut technologique a promis l’abondance ; mal maîtrisé, il a aussi enfanté crises et inégalités. »*   
 
 ## Structure du dossier
 
@@ -25,11 +25,11 @@ pdf: "dossier.pdf"
 
 ## Points saillants
 
-* **Cinq ruptures** : monnaie antique → banques & bourses → révolution industrielle → globalisation financière → finance algorithmique :contentReference[oaicite:8]{index=8}  
-* **Bulle subprime 2008** : 8,8 millions d’emplois US perdus, illustration du « court-termisme stupide » :contentReference[oaicite:9]{index=9}  
-* **100 entreprises fossiles** = 71 % des émissions industrielles depuis 1988 : externalité climatique massive :contentReference[oaicite:10]{index=10}  
-* **Top 1 %** a capté ~66 % de la richesse mondiale créée 2020-2022 (rapport Oxfam) :contentReference[oaicite:11]{index=11}  
-* **Alternatives** : plus d’1 milliard de membres coopératifs dans le monde, > 4 M d’Eusko en circulation (monnaie locale) :contentReference[oaicite:12]{index=12}  
+* **Cinq ruptures** : monnaie antique → banques & bourses → révolution industrielle → globalisation financière → finance algorithmique   
+* **Bulle subprime 2008** : 8,8 millions d’emplois US perdus, illustration du « court-termisme stupide »  
+* **100 entreprises fossiles** = 71 % des émissions industrielles depuis 1988 : externalité climatique massive  
+* **Top 1 %** a capté ~66 % de la richesse mondiale créée 2020-2022 (rapport Oxfam)  
+* **Alternatives** : plus d’1 milliard de membres coopératifs dans le monde, > 4 M d’Eusko en circulation (monnaie locale)  
 
 ---
 
@@ -48,3 +48,8 @@ pdf: "dossier.pdf"
   style="border:none;"
   loading="lazy">
 </iframe>
+
+
+## Lien externe
+
+[lien](https://ouaisfi.eu/viewtopic.php?p=701&sid=12d1c28d21fb53a6dee6605c37f5d062#p701)
