@@ -2,7 +2,7 @@
 title: "La place de l’information dans l’empouvoirement individuel et le pouvoir d’agir collectif"
 date: 2025-06-26
 layout: single          
-# classes: wide           # (élargit la colonne, optionnel)
+classes: wide           # (élargit la colonne, optionnel)
 categories: ["Information & Pouvoir"]
 tags: ["Empowerment", "Education populaire", "Désinformation", "Intelligence collective"]
 pdf: "dossier.pdf"
@@ -48,7 +48,7 @@ pdf: "dossier.pdf"
 {% endcapture %}
 
 <iframe
-  src="{{ 'dossier.pdf' | relative_url }}#toolbar=1"
+  src="{{ 'dossier.pdf' | relative_url }}"
   style="width:100%;height:700px;border:none"
   loading="lazy">
 </iframe>
