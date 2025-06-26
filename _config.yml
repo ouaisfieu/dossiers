@@ -54,5 +54,8 @@ include:
 
 # Image par défaut pour les réseaux sociaux
 seo:
-  type: website
-  image: /dossiers/assets/img/head.jpg
+  type: article
+  image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
+  twitter:
+    card: summary_large_image
+    username: "" # ou laisse vide
