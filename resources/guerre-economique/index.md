@@ -1,12 +1,15 @@
 ---
 title: "La guerre économique et ses répercussions sur la société civile aux XXe et XXIe siècles"
+description: "Analyse stratégique et humanitaire de la guerre économique moderne, ses outils (sanctions, embargos, normes) et ses impacts profonds sur les sociétés civiles à travers le monde."
 date: 2025-06-26
+last_modified_at: 2025-06-27
 layout: single
 classes: wide
 categories: ["Guerre économique"]
 tags: ["Sanctions", "Embargos", "Guerres commerciales", "Société civile"]
 pdf: "dossier.pdf"
 ---
+
 
 > *« La guerre économique est l’art de briser un adversaire sans tirer un coup de feu –  
 > mais ce sont pourtant les civils qui encaissent la première salve. »*
