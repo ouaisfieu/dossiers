@@ -52,3 +52,7 @@ defaults:
 include:
   - _includes/head-custom.html
 
+# Image par défaut pour les réseaux sociaux
+seo:
+  type: website
+  image: /dossiers/assets/img/head.png
