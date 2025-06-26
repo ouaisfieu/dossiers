@@ -17,12 +17,12 @@ pdf: "dossier.pdf"
 
 | # | Section | Question clef |
 |---|---------|----------------|
-| 1 | **Information, données, connaissances** | Qu’est-ce qui distingue un fait brut d’un savoir mobilisable ? :contentReference[oaicite:13]{index=13} |
-| 2 | **Empouvoirement individuel** | Pourquoi l’“information literacy” est un levier d’autonomie ? :contentReference[oaicite:14]{index=14} |
-| 3 | **Dynamiques collectives** | Comment l’info alimente mobilisations et intelligence collective ? :contentReference[oaicite:15]{index=15} |
-| 4 | **Asymétries, désinformation, censure, surveillance** | Quand l’info devient instrument de pouvoir et de contrôle. :contentReference[oaicite:16]{index=16} |
-| 5 | **Réappropriation citoyenne** | Quelles pratiques d’éducation populaire pour reprendre la main ? :contentReference[oaicite:17]{index=17} |
-| 6 | **Conclusion** | Trouver l’équilibre entre circulation libre et protections. :contentReference[oaicite:18]{index=18} |
+| 1 | **Information, données, connaissances** | Qu’est-ce qui distingue un fait brut d’un savoir mobilisable ? |
+| 2 | **Empouvoirement individuel** | Pourquoi l’“information literacy” est un levier d’autonomie ? |
+| 3 | **Dynamiques collectives** | Comment l’info alimente mobilisations et intelligence collective ? |
+| 4 | **Asymétries, désinformation, censure, surveillance** | Quand l’info devient instrument de pouvoir et de contrôle. |
+| 5 | **Réappropriation citoyenne** | Quelles pratiques d’éducation populaire pour reprendre la main ? |
+| 6 | **Conclusion** | Trouver l’équilibre entre circulation libre et protections. |
 
 ---
 
@@ -52,4 +52,6 @@ pdf: "dossier.pdf"
   loading="lazy">
 </iframe>
 
+## Lien externe
 
+L'info c'est le pouvoir, [ouaisfi.eu](https://ouaisfi.eu/viewtopic.php?t=47&sid=12d1c28d21fb53a6dee6605c37f5d062)
