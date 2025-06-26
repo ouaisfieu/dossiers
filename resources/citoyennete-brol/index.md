@@ -53,6 +53,16 @@ pdf: "dossier.pdf"
 
 ## Résumé : *La citoyenneté, c’est le brol — un système complexe en perspective*
 
+Ce dossier explore la citoyenneté non comme un statut figé ou une abstraction juridique, mais comme une expérience concrète, souvent confuse, marquée par des dispositifs administratifs lourds, des normes changeantes, et des pratiques parfois absurdes. Le terme « brol », typiquement belge, désigne ici le désordre ambiant, la surcharge de procédures et l’incohérence d’un système censé organiser la vie collective.
+
+Historiquement, la citoyenneté fut d’abord un privilège exclusif, réservé à une élite masculine et libre. À travers les siècles, ce statut s’est élargi, en apparence, à l’ensemble des populations. Pourtant, à mesure que les droits s’universalisaient sur le papier, la réalité devenait plus technique, plus opaque, et plus contraignante. Le citoyen d’aujourd’hui n’est plus simplement un acteur politique, mais une identité administrative, dotée d’un numéro, d’une carte, de multiples attestations et enregistrée dans des bases de données interconnectées.
+
+Le cas belge illustre de manière frappante cette complexité. Entre niveaux de pouvoir imbriqués, règles divergentes selon les régions, et multiplication des documents exigés pour la moindre démarche, la citoyenneté devient une sorte de parcours du combattant. Ce contexte alimente une forme de déresponsabilisation civique, où le citoyen se perd dans les méandres d’un système qui prétend pourtant le servir.
+
+Comparée à d’autres modèles — comme l’Estonie, championne de la dématérialisation et de l’efficacité numérique, ou le Canada, plus souple mais moins centralisé — la Belgique illustre les effets pervers d’un excès de formalisation sans véritable simplification. Loin d’être un simple problème technique, cette situation soulève des questions politiques majeures sur l’inclusion, l’égalité d’accès aux droits et la légitimité des institutions.
+
+En somme, ce dossier plaide pour une refonte en profondeur de la citoyenneté administrative, qui ne devrait pas être un obstacle à la participation, mais un tremplin vers l’autonomie et la capacité d’agir. Il ne s’agit pas seulement de réduire la paperasse, mais de repenser la manière dont l’État reconnaît, soutient et engage ses citoyens.
+
 ### 📜 1. Évolution historique : de privilège à labyrinthe administratif
 
 - **Antiquité** : Citoyenneté réservée à une élite (hommes libres, citoyens natifs).
