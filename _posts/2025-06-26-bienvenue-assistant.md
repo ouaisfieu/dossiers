@@ -12,6 +12,8 @@ tags:
   - image
   - réseaux sociaux
 layout: single
+classes: wide 
+
 header:
   overlay_image: /dossiers/assets/img/assistant-bienvenue.jpg
   overlay_filter: 0.2
