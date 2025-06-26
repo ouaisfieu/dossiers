@@ -1,12 +1,15 @@
 ---
 title: "Comprendre l’évolution des échanges : de l’« intelligence » à la « stupidité » économique"
+description: "Une analyse historique et critique des systèmes d’échange, révélant la dérive de l’intelligence collective vers une économie abstraite, spéculative et oppressive. Le dossier explore aussi des alternatives citoyennes et solidaires."
 date: 2025-06-26
+last_modified_at: 2025-06-27
 layout: single
 classes: wide
 categories: ["Histoire économique"]
 tags: ["Troc", "Monnaie", "Finance", "Spéculation", "Modèles alternatifs"]
 pdf: "dossier.pdf"
 ---
+
 
 > *« Chaque saut technologique a promis l’abondance ; mal maîtrisé, il a aussi enfanté crises et inégalités. »*   
 
