@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ouaisfieu.github.io/dossiers/sitemap.xml
