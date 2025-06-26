@@ -11,8 +11,8 @@ baseurl: ""              # Laissez vide pour un site à la racine
 # et commentez les autres.
 
 # remote_theme: "mmistakes/minimal-mistakes@4.26.1"   # Minimal Mistakes
-# remote_theme: "just-the-docs/just-the-docs"         # Just the Docs
-remote_theme: "mmistakes/so-simple-theme"           # So Simple
+remote_theme: "just-the-docs/just-the-docs"         # Just the Docs
+# remote_theme: "mmistakes/so-simple-theme"           # So Simple
 
 # Choisissez un jeu de couleurs (skins) Minimal Mistakes :
 # default, air, aqua, contrast, dark, dirt, neon, plum, mint
