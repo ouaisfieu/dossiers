@@ -51,6 +51,17 @@ pdf: "dossier.pdf"
 
 ## Résumé : *Comprendre l’évolution des échanges — de l’« intelligence » à la « stupidité » économiques*
 
+Ce dossier retrace l’histoire des échanges économiques, depuis leurs formes les plus élémentaires jusqu’à leur complexification contemporaine, pour interroger la manière dont un système pensé pour répondre à des besoins collectifs peut dériver en mécanisme d’oppression. L’analyse met en lumière un paradoxe central : plus les échanges se sont « raffinés », plus ils se sont éloignés de leur finalité première — servir la société.
+
+Au départ, les échanges reposaient sur des logiques simples de troc, de don, ou de crédit informel, ancrées dans des relations sociales directes. Cette forme d’« intelligence économique » était orientée vers l’utilité immédiate, la coopération et la solidarité. Avec l’invention de la monnaie, puis l’apparition de mécanismes comme la banque, la dette, ou le capitalisme marchand, les échanges se sont progressivement autonomisés, désincarnés, et soumis à des logiques de rendement, d’accumulation et de domination.
+
+L’époque contemporaine, marquée par la financiarisation et l’essor des technologies numériques, voit naître une nouvelle forme d’économie dite « algorithmique », fondée sur la spéculation, l’abstraction et l’exploitation massive des données. Cette évolution entraîne une rupture profonde : l’économie ne produit plus nécessairement de biens utiles, mais du profit pour lui-même, au prix d'une précarisation généralisée, d’une explosion des inégalités, et d’une dépendance croissante vis-à-vis d’acteurs privés surpuissants.
+
+L’intelligence collective, autrefois au cœur des échanges humains, cède la place à une « stupidité systémique » où les décisions sont prises par des modèles opaques, inaccessibles aux citoyens. Ce constat invite à une réappropriation des outils économiques, à la valorisation des initiatives non marchandes (économie du don, coopératives, communs, monnaies locales), et à une réinvention des modes de régulation en phase avec les besoins écologiques, sociaux et démocratiques.
+
+Ce retour critique sur l’histoire des échanges permet ainsi de comprendre comment les instruments économiques peuvent servir autant la coopération que la dépossession, et pourquoi leur orientation doit faire l’objet d’un débat public éclairé.
+
+
 ### 🪙 1. Grandes ruptures historiques des échanges
 
 - **Troc primitif** : échanges locaux, basés sur la confiance et l’usage immédiat.
