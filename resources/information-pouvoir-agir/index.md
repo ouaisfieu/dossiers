@@ -48,7 +48,8 @@ pdf: "dossier.pdf"
 {% endcapture %}
 
 <iframe
-  src="{{ '/assets/pdfjs/web/viewer.html' | relative_url }}?file={{ pdf_fullpath | url_encode }}"
+  src="{{ 'dossier.pdf' | relative_url }}#toolbar=1"
   style="width:100%;height:700px;border:none"
   loading="lazy">
 </iframe>
+
