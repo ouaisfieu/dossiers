@@ -54,6 +54,18 @@ pdf: "dossier.pdf"
 
 ## Résumé : *La place de l’information dans l’empouvoirement individuel et le pouvoir d’agir collectif*
 
+Ce dossier explore le rôle fondamental que joue l’information dans la capacité des individus à se saisir de leur propre pouvoir d’agir et à participer activement à la transformation de la société. Loin d’être une simple ressource parmi d’autres, l’information y est envisagée comme une condition de l’émancipation personnelle et de l’action collective.
+
+L’empouvoirement — ou empowerment — est défini comme un processus dynamique par lequel une personne ou un groupe développe son autonomie, son esprit critique et sa capacité à intervenir sur son environnement. Dans ce processus, l’information constitue un levier stratégique : elle permet de comprendre le monde, d’identifier les rapports de domination, de se repérer dans la complexité sociale, et surtout, de construire des alternatives.
+
+Mais cet idéal se heurte à plusieurs obstacles majeurs. D’une part, l’accès à une information fiable et compréhensible n’est pas équitablement réparti. D’autre part, les mécanismes contemporains de diffusion de l’information — entre surcharge, désinformation et enfermement algorithmique — tendent à brouiller la lisibilité du réel. À cela s’ajoutent des formes d’exclusion symbolique, comme l’usage de langages techniques ou la domination des récits institutionnels.
+
+Pour contrer ces phénomènes, le dossier met en avant le rôle de l’éducation populaire, de la production citoyenne de savoirs, et des outils collaboratifs. Il insiste sur la nécessité de créer des espaces d’expression autonome, de valoriser les savoirs situés et de favoriser des pratiques de veille, de cartographie et de médiation adaptées aux enjeux du terrain.
+
+L’information devient ainsi un bien commun à reconquérir : non seulement en tant que contenu, mais aussi en tant que méthode et outil. Pour que chacun puisse agir sur le monde et non simplement le subir, il est crucial de démocratiser la maîtrise de l’information, dans ses usages comme dans ses formes. Ce projet est autant politique que culturel.
+
+En conclusion, le texte appelle à une redéfinition du rapport à l’information, fondée sur la transparence, la participation et la capacité critique. C’est à cette condition que l’empouvoirement, tant individuel que collectif, pourra réellement devenir effectif.
+
 ### 🧭 1. Définir l’empouvoirement
 
 - **Empouvoirement** (empowerment) : capacité d’un individu ou d’un groupe à renforcer sa maîtrise sur sa vie, ses choix et son environnement.
