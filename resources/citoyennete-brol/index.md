@@ -1,12 +1,15 @@
 ---
 title: "La citoyenneté, c’est le brol : un système complexe en perspective"
+description: "Exploration critique de la citoyenneté moderne à travers les lourdeurs administratives, le contrôle social et les comparaisons internationales. Un dossier pédagogique et percutant sur l'absurdité bureaucratique contemporaine."
 date: 2025-06-26
+last_modified_at: 2025-06-27
 layout: splash
 classes: wide
 categories: ["Citoyenneté & Administration"]
 tags: ["Bureaucratie", "Belgique", "Nationalité", "Contrôle social"]
 pdf: "dossier.pdf"
 ---
+
 
 > *« La citoyenneté moderne, c’est un labyrinthe de guichets, de lois et de formulaires ».*  
 > Ce dossier décortique comment un statut censé unir les individus devient parfois un **“brol” administratif**. 
