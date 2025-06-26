@@ -37,15 +37,19 @@ pdf: "dossier.pdf"
 
 ---
 
-<!-- Bouton de téléchargement, facultatif -->
-<p><a class="btn btn--primary" href="{{ 'dossier.pdf' | relative_url }}">
-   💾 Télécharger le PDF
-</a></p>
+## Télécharger ou consulter
 
-<!-- Affichage dans le lecteur PDF intégré du navigateur -->
+<p>
+  <a class="btn btn--primary" href="dossier.pdf">💾 Télécharger le PDF</a>
+</p>
+
+<!-- Affichage via le lecteur PDF natif du navigateur -->
 <iframe
-  src="{{ 'dossier.pdf' | relative_url }}#toolbar=1"
-  style="width:100%; height:700px; border:none;"
+  src="/dossiers/resources/information-pouvoir-agir/dossier.pdf#toolbar=1"
+  width="100%"
+  height="700"
+  style="border:none;"
   loading="lazy">
 </iframe>
+
 
