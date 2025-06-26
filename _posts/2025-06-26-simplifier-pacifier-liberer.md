@@ -103,7 +103,7 @@ En d’autres termes : **simplifier le brol, pacifier l’économie, libérer l�
 - Harbulot, C. (2016). *Manuel d’intelligence économique*. PUF.
 - Oehmichen, A. (2022). *Les sanctions internationales : un outil d'ingérence légitime ?* L’Harmattan.
 - UNCTAD. (2021). *Impact of Unilateral Sanctions on the Right to Development*. United Nations Conference on Trade and Development.  
-  → https://unctad.org/system/files/official-document/gds2021d3_en.pdf
+  
 
 ### 📘 Information, pouvoir, autonomie
 
@@ -122,8 +122,5 @@ En d’autres termes : **simplifier le brol, pacifier l’économie, libérer l�
 
 - Parlement de la Fédération Wallonie-Bruxelles (2022). *Rapport annuel sur l’éducation permanente*.
 - Commission européenne (2020). *European Democracy Action Plan*.  
-  → https://ec.europa.eu/info/policies/justice-and-fundamental-rights/european-democracy-action-plan_en
+  
 
----
-
-**Remarque** : cette bibliographie peut être enrichie selon le format final de publication (académique, militant, vulgarisé) ou selon les thèmes spécifiques à chaque texte. Tu peux aussi me demander une version au format [BibTeX], [APA] ou [Zotero-ready].
