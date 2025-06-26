@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pourquoi ce dépôt ?"
 date: 2025-06-26
 categories: [meta]
