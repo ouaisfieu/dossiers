@@ -1,7 +1,7 @@
 ---
 title: "La citoyenneté, c’est le brol : un système complexe en perspective"
 date: 2025-06-26
-layout: single
+layout: splash
 classes: wide
 categories: ["Citoyenneté & Administration"]
 tags: ["Bureaucratie", "Belgique", "Nationalité", "Contrôle social"]
