@@ -1,5 +1,22 @@
 # _config.yml
 
+###############################################################
+# Palette : clair ↔ sombre
+###############################################################
+palette:
+  # Thème clair (chargé par défaut)
+  - scheme: default            # reprend le skin défini plus bas
+    toggle:
+      icon: fas fa-sun         # l’icône Font Awesome pour “soleil”
+      label: Mode clair
+
+  # Thème sombre
+  - scheme: dark
+    toggle:
+      icon: fas fa-moon        # icône “lune”
+      label: Mode sombre
+
+
 # --- Métadonnées du site -----------------------------------------------
 title: "Mes dossiers choisis"
 description: "Quatre analyses pour comprendre notre monde"
@@ -55,6 +72,3 @@ defaults:
   - scope:
       path: ""
     values:
-      palette:
-        scheme: default
-        toggle: true
