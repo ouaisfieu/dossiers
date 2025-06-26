@@ -60,3 +60,4 @@ Tu trouveras dans les prochaines publications des **dossiers complets**, des syn
 
 > _“Chercher, c’est douter. Partager, c’est commencer à comprendre.”_
 
+![head](https://ouaisfieu.github.io/dossiers/assets/img/head.jpg)
