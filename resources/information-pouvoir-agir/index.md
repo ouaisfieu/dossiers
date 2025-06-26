@@ -1,12 +1,15 @@
 ---
 title: "La place de l’information dans l’empouvoirement individuel et le pouvoir d’agir collectif"
+description: "Un dossier sur le rôle clé de l’information dans l’émancipation personnelle et la mobilisation collective, entre éducation populaire, luttes sociales et défis numériques."
 date: 2025-06-26
+last_modified_at: 2025-06-27
 layout: single          
-classes: wide           # (élargit la colonne, optionnel)
+classes: wide
 categories: ["Information & Pouvoir"]
 tags: ["Empowerment", "Education populaire", "Désinformation", "Intelligence collective"]
 pdf: "dossier.pdf"
 ---
+
 
 
 > *« Savoir, c’est pouvoir » – mais pour qui, et à quelles conditions ?*  
