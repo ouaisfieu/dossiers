@@ -1,14 +1,17 @@
-title: "Mes ressources"
-description: "Une collection de fiches de lecture et de ressources pédagogiques"
+# _config.yml
+
+# --- Métadonnées du site -----------------------------------------------
+title: "Mes dossiers choisis"
+description: "Quatre analyses pour comprendre notre monde"
 
 # --- URLs --------------------------------------------------------------
-url: "https://ouaisfieu.github.io"   # racine de tes pages GitHub
-baseurl: "/dossiers"                 # nom exact de ton dépôt (avec /)
+url: "https://ouaisfieu.github.io"  
+baseurl: "/dossiers"                 
 
 # --- Thème -------------------------------------------------------------
 remote_theme: "mmistakes/minimal-mistakes@4.26.1"
-theme: null          # évite le conflit avec le thème par défaut GitHub
-minimal_mistakes_skin: "aqua"   # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
+theme: null          
+minimal_mistakes_skin: "aqua"
 
 # --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
@@ -16,12 +19,46 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-paginate         # pour la pagination
 
 # --- Collections ------------------------------------------------------
-collections:
-  resources:
-    output: true
-    permalink: /resources/:path/
+# collections:
+#  dossiers:
+#    output: true
+#    permalink: /dossiers/:title/
 
-search: true
+# --- Search (Lunr.js) -------------------------------------------------
+search:
+  provider: lunr
+  lunr_lang: fr
+  output: search.json
+
+# --- Markdown ----------------------------------------------------------
 markdown: kramdown
+
+# --- Pagination --------------------------------------------------------
+paginate: 10
+paginate_path: "/page:num/"
+
+# --- Valeurs par défaut (hero, dark mode) -----------------------------
+defaults:
+  # Hero banner sur la page d’accueil (index.md avec layout: home ou default)
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      header:
+        background:
+          image: /assets/img/cover.jpg
+          overlay_color: "#000000"
+          overlay_opacity: 0.5
+        title: "Mes dossiers choisis"
+        subtitle: "Quatre analyses pour comprendre notre monde"
+
+  # Active le switch dark/light global
+  - scope:
+      path: ""
+    values:
+      palette:
+        scheme: default
+        toggle: true
