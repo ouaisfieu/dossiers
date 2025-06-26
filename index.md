@@ -1,12 +1,13 @@
 ---
-layout: home          # ou "page" si tu préfères
+layout: home          # ou "splash" si tu préfères
 classes: wide 
-title: "Corpus de base"
-lead: >
-  Quatre dossiers pour prendre du recul sur l’économie, la citoyenneté,
-  la guerre économique et le rôle de l’information.
-  Chaque fiche résume les idées clés et renvoie vers le PDF intégral.
-author_profile: false
+title: "Accueil"
+permalink: /
+header:
+  overlay_image: "assets/img/cover.jpg"   # chemin **sans** “/” initial → sera préfixé par {{ site.baseurl }}
+  overlay_filter: 0.4                     # fonce le fond (0 = opaque, 1 = transparent)
+  overlay_color: "#000000"                # noir
+  # caption: ""                             # (optionnel) copyright ou source de l’image
 ---
 
 ## Panorama des dossiers
