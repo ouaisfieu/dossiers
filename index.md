@@ -16,10 +16,10 @@ header:
 
 | Thématique | Aperçu rapide | Lien |
 |------------|---------------|------|
-| **Évolution des échanges** | Du troc à la finance algorithmique : 5 ruptures historiques, <br>comment l’« intelligence » économique a basculé vers la « stupidité » spéculative, et des pistes <br>coopératives pour reprendre la main. | [La fiche](resources/echanges-intelligence-stupidite/) |
-| **La citoyenneté : “c’est le brol”** | Voyage de l’Athènes antique aux cartes d’identité électroniques : <br>comment la citoyenneté est devenue un labyrinthe administratif, <br>illustré par le cas belge. | [La fiche](resources/citoyennete-brol/) |
-| **Guerre économique** | Sanctions, embargos, guerres commerciales : des “armes” non militaires <br>qui frappent d’abord les populations civiles. Étude des XXᵉ-XXIᵉ s. et cas Iran, Russie, Chine… | [La fiche](resources/guerre-economique/) |
-| **Information & pouvoir d’agir** | Du modèle DIKW à l’éducation populaire : <br>pourquoi l’accès à une information fiable est un levier d’empouvoirement <br>individuel et collectif. | [La fiche](resources/information-pouvoir-agir/) |
+| **Évolution des échanges** | Du troc à la finance algorithmique : 5 ruptures historiques, comment l’« intelligence » économique a basculé vers la « stupidité » spéculative, et des pistes coopératives pour reprendre la main. | [La fiche](resources/echanges-intelligence-stupidite/) |
+| **La citoyenneté : “c’est le brol”** | Voyage de l’Athènes antique aux cartes d’identité électroniques : comment la citoyenneté est devenue un labyrinthe administratif, illustré par le cas belge. | [La fiche](resources/citoyennete-brol/) |
+| **Guerre économique** | Sanctions, embargos, guerres commerciales : des “armes” non militaires qui frappent d’abord les populations civiles. Étude des XXᵉ-XXIᵉ s. et cas Iran, Russie, Chine… | [La fiche](resources/guerre-economique/) |
+| **Information & pouvoir d’agir** | Du modèle DIKW à l’éducation populaire : pourquoi l’accès à une information fiable est un levier d’empouvoirement individuel et collectif. | [La fiche](resources/information-pouvoir-agir/) |
 
 > Chaque fiche propose : un résumé vulgarisé, des mots-clés, une citation phare et un bouton **Télécharger le PDF**.
 
