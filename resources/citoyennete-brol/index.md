@@ -9,7 +9,7 @@ pdf: "dossier.pdf"
 ---
 
 > *« La citoyenneté moderne, c’est un labyrinthe de guichets, de lois et de formulaires ».*  
-> Ce dossier décortique comment un statut censé unir les individus devient parfois un **“brol” administratif**. :contentReference[oaicite:7]{index=7}
+> Ce dossier décortique comment un statut censé unir les individus devient parfois un **“brol” administratif**. 
 
 ## Structure du dossier
 
@@ -27,11 +27,11 @@ pdf: "dossier.pdf"
 
 ## Points saillants
 
-* **Bureaucratisation** : du Code civil de 1804 à la loi belge « dites-le-nous-une-fois », chaque réforme ajoute une couche plutôt qu’elle n’en retire. :contentReference[oaicite:8]{index=8}  
-* **Vote obligatoire en Belgique** depuis 1893 : devoir civique ou instrument de contrôle ? :contentReference[oaicite:9]{index=9}  
-* **Non-recours aux droits** : complexité = obstacle invisible, surtout pour les publics précarisés (ONG bruxelloises). :contentReference[oaicite:10]{index=10}  
-* **Estonie** : 99 % des démarches publiques en ligne, modèle “Once Only” → un quasi zéro-papier. Contrasté avec le **Canada** (47ᵉ rang ONU e-gouv 2024). :contentReference[oaicite:11]{index=11}  
-* **Citoyenneté = contrôle** : passeports, bases de données, obligation de porter la carte d’identité ⇒ capacité de surveillance renforcée. :contentReference[oaicite:12]{index=12}  
+* **Bureaucratisation** : du Code civil de 1804 à la loi belge « dites-le-nous-une-fois », chaque réforme ajoute une couche plutôt qu’elle n’en retire. 
+* **Vote obligatoire en Belgique** depuis 1893 : devoir civique ou instrument de contrôle ?  
+* **Non-recours aux droits** : complexité = obstacle invisible, surtout pour les publics précarisés (ONG bruxelloises). 
+* **Estonie** : 99 % des démarches publiques en ligne, modèle “Once Only” → un quasi zéro-papier. Contrasté avec le **Canada** (47ᵉ rang ONU e-gouv 2024). 
+* **Citoyenneté = contrôle** : passeports, bases de données, obligation de porter la carte d’identité ⇒ capacité de surveillance renforcée. 
 
 ---
 
@@ -50,3 +50,7 @@ pdf: "dossier.pdf"
   style="border:none;"
   loading="lazy">
 </iframe>
+
+## Lien externe
+
+Arpentage sur [ouaisfi.eu](https://ouaisfi.eu/viewtopic.php?p=671&sid=12d1c28d21fb53a6dee6605c37f5d062#p671)
