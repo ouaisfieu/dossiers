@@ -65,6 +65,8 @@ Tu peux aussi l’insérer manuellement dans le contenu :
 ![Bienvenue sur le blog ouaisfi.eu](/dossiers/assets/img/assistant-bienvenue.jpg)
 ```
 
+![Bienvenue sur le blog ouaisfi.eu](/dossiers/assets/img/assistant-bienvenue.jpg)
+
 ---
 
 ## ✅ Résultat attendu
