@@ -4,17 +4,16 @@
 # Palette : clair ↔ sombre
 ###############################################################
 palette:
-  # Thème clair (chargé par défaut)
-  - scheme: default            # reprend le skin défini plus bas
+  - scheme: default
     toggle:
-      icon: fas fa-sun         # l’icône Font Awesome pour “soleil”
-      label: Mode clair
+      icon: fas fa-sun
+      label: "Mode clair"
 
-  # Thème sombre
   - scheme: dark
     toggle:
-      icon: fas fa-moon        # icône “lune”
-      label: Mode sombre
+      icon: fas fa-moon
+      label: "Mode sombre"
+
 
 
 # --- Métadonnées du site -----------------------------------------------
