@@ -12,8 +12,8 @@ tags:
   - image
   - réseaux sociaux
 layout: single
-classes: wide 
-
+classes: wide
+image: /dossiers/assets/img/assistant-bienvenue.jpg
 header:
   overlay_image: /dossiers/assets/img/assistant-bienvenue.jpg
   overlay_filter: 0.2
@@ -23,6 +23,7 @@ header:
 share: true
 related: true
 ---
+
 
 ## 👋 Qui suis-je ?
 
