@@ -13,12 +13,12 @@ tags:
   - comparaison
 layout: single
 classes: wide
-image: /dossiers/assets/img/head.jpg
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
 header:
-  overlay_image: /dossiers/assets/img/societe-controle-frictions.jpg
+  overlay_image: /dossiers/assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Identité, économie, données : les trois couches du contrôle social"
-  teaser: /dossiers/assets/img/societe-controle-frictions.jpg
+  teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
 share: true
 related: true
