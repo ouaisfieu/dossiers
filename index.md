@@ -2,7 +2,9 @@
 layout: home          # ou "splash" si tu préfères
 classes: wide 
 title: "·"
+description: "Une porte d’entrée critique vers quatre grands dossiers sur l’économie, la citoyenneté, la guerre économique et l’information. Chaque fiche combine analyse, vulgarisation et pistes d’action concrètes."
 permalink: /
+last_modified_at: 2025-06-27
 header:
   overlay_image: "assets/img/cover.jpg"   # chemin **sans** “/” initial → sera préfixé par {{ site.baseurl }}
   overlay_filter: 0.4                     # fonce le fond (0 = opaque, 1 = transparent)
