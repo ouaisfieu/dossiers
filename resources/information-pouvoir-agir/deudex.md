@@ -44,8 +44,12 @@ pdf: "dossier.pdf"      # doit se trouver dans le même dossier que cette fiche
 {{ page.url | relative_url }}{{ page.pdf }}
 {%- endcapture %}
 
-<iframe
-  src="{{ '/assets/pdfjs/web/viewer.html' | relative_url }}?file={{ pdf_fullpath | url_encode }}"
-  style="width:100%;height:700px;border:none;"
-  loading="lazy">
-</iframe>
+<object
+  data="{{ 'dossier.pdf' | relative_url }}#toolbar=1"
+  type="application/pdf"
+  width="100%"
+  height="700">
+  <p>Votre navigateur ne peut pas afficher ce PDF.
+     <a href="{{ 'dossier.pdf' | relative_url }}">Télécharger le fichier</a></p>
+</object>
+
