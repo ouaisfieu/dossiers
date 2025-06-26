@@ -1,7 +1,7 @@
 # Site settings
 title: "Mes ressources"
 description: "Une collection de fiches de lecture et de ressources pédagogiques"
-url: "https://<votre-utilisateur>.github.io"   # Remplacez par votre nom d'utilisateur GitHub
+url: "https://ouaisfieu.github.io"   # Remplacez par votre nom d'utilisateur GitHub
 baseurl: ""              # Laissez vide pour un site à la racine
 
 # --- Thème ----------------------------------------------------------
