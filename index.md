@@ -1,5 +1,6 @@
 ---
 layout: home          # ou "page" si tu préfères
+classes: wide 
 title: "Corpus de base"
 lead: >
   Quatre dossiers pour prendre du recul sur l’économie, la citoyenneté,
@@ -13,7 +14,7 @@ author_profile: false
 | Thématique | Aperçu rapide | Lien |
 |------------|---------------|------|
 | **Évolution des échanges** | Du troc à la finance algorithmique : 5 ruptures historiques, <br>comment l’« intelligence » économique a basculé vers la « stupidité » spéculative, et des pistes <br>coopératives pour reprendre la main. | [Lire le résumé](resources/echanges-intelligence-stupidite/) |
-| **Citoyenneté : “c’est le brol”** | Voyage de l’Athènes antique aux cartes d’identité électroniques : <br>comment la citoyenneté est devenue un labyrinthe administratif, <br>illustré par le cas belge. | [Lire le résumé](resources/citoyennete-brol/) |
+| **La citoyenneté : “c’est le brol”** | Voyage de l’Athènes antique aux cartes d’identité électroniques : <br>comment la citoyenneté est devenue un labyrinthe administratif, <br>illustré par le cas belge. | [Lire le résumé](resources/citoyennete-brol/) |
 | **Guerre économique** | Sanctions, embargos, guerres commerciales : des “armes” non militaires <br>qui frappent d’abord les populations civiles. Étude des XXᵉ-XXIᵉ s. et cas Iran, Russie, Chine… | [Lire le résumé](resources/guerre-economique/) |
 | **Information & pouvoir d’agir** | Du modèle DIKW à l’éducation populaire : <br>pourquoi l’accès à une information fiable est un levier d’empouvoirement <br>individuel et collectif. | [Lire le résumé](resources/information-pouvoir-agir/) |
 
