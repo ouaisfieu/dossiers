@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.1"   # Minimal Mistakes
 
 # Choisissez un jeu de couleurs (skins) Minimal Mistakes :
 # default, air, aqua, contrast, dark, dirt, neon, plum, mint
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "neon"
 
 # --- Plugins GitHub Pages compatibles -------------------------------
 plugins:
