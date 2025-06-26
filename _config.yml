@@ -27,7 +27,8 @@ baseurl: "/dossiers"
 # --- Thème -------------------------------------------------------------
 remote_theme: "mmistakes/minimal-mistakes"
 theme: null          
-minimal_mistakes_skin: "dirt" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
+minimal_mistakes_skin: "air" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
+theme_skin_toggle: true
 
 # --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
