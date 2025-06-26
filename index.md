@@ -31,16 +31,3 @@ header:
 
 ---
 
-## Accès rapide
-
-* [Flux RSS](feed.xml) — reste informé des nouvelles fiches  
-* [À propos](/dossiers/a-propos/) — qui suis-je ?  
-* Contact : [me @ example.org](mailto:me@example.org)
-
----
-
-<style>
-/* Mini touche personnelle (facultatif) */
-table { width:100%; }
-th, td { vertical-align:top; }
-</style>
