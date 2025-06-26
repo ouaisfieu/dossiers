@@ -1,24 +1,8 @@
 # _config.yml
 
-###############################################################
-# Palette : clair ↔ sombre
-###############################################################
-palette:
-  - scheme: default
-    toggle:
-      icon: fas fa-sun
-      label: "Mode clair"
-
-  - scheme: dark
-    toggle:
-      icon: fas fa-moon
-      label: "Mode sombre"
-
-
-
 # --- Métadonnées du site -----------------------------------------------
-title: "Mes dossiers choisis"
-description: "Quatre analyses pour comprendre notre monde"
+title: "ouaisfi.eu"
+description: "La citoyenneté, c'est le brol"
 
 # --- URLs --------------------------------------------------------------
 url: "https://ouaisfieu.github.io"  
@@ -65,8 +49,8 @@ defaults:
       type: "pages"
     values:
       header:
-        title: "Mes dossiers choisis"
-        subtitle: "Quatre analyses pour comprendre notre monde"
+        title: "ouaisfi.eu"
+        subtitle: "La citoyenneté, c'est le brol"
 
   # Active le switch dark/light global
   - scope:
