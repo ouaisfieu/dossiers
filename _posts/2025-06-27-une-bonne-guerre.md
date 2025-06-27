@@ -18,7 +18,6 @@ excerpt: "Embargos, sanctions, chantage énergétique : la guerre économique es
 last_modified_at: 2025-06-27
 ---
 
-# Allez, une bonne guerre
 
 ## La guerre économique ne tue pas par des bombes, mais par la pénurie
 
