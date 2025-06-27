@@ -1,27 +1,35 @@
 ---
 title: "OSINT & Intelligence économique : S’informer, surveiller, anticiper"
+excerpt: "Comment l’OSINT et l’intelligence économique peuvent aider même une petite structure associative à mieux comprendre son environnement stratégique."
 layout: single
+classes: wide
+author: "ouaisfi.eu"
 author_profile: false
 read_time: true
 comments: false
 share: true
 related: true
-categories:
-  - dossiers
 tags:
   - osint
   - intelligence économique
   - veille stratégique
   - associations
-  - autonomie
-excerpt: "Comment l’OSINT et l’intelligence économique peuvent aider même une petite structure associative à mieux comprendre son environnement stratégique."
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Identité, économie, données : les trois couches du contrôle social"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+
 last_modified_at: 2025-06-27
 ---
 
 ## OSINT & Intelligence économique : S’informer, surveiller, anticiper
 
 **Que peut faire une petite structure pour survivre dans un monde saturé d’information et de concurrence ?**  
-La réponse tient en trois lettres : **OSINT** – Open Source Intelligence.
+La réponse tient en quelques lettres : **OSINT** – Open Source Intelligence.
 
 Ce dossier explique comment l’**intelligence économique** (IE) n’est pas réservée aux multinationales ou aux États. Bien au contraire : les pratiques d’**OSINT**, issues des services de renseignement mais accessibles à tous, permettent aujourd’hui aux associations, collectifs ou petits acteurs de terrain :
 
