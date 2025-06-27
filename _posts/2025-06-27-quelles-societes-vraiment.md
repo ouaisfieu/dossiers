@@ -1,13 +1,13 @@
 ---
 title: "Dans quelle société vivons-nous vraiment ?"
 layout: single
+author: "ouaisfi.eu"
 author_profile: false
 read_time: true
 comments: false
 share: true
 related: true
-categories:
-  - dossiers
+
 tags:
   - société
   - critique sociale
@@ -16,6 +16,15 @@ tags:
   - information
 excerpt: "Société de l'information, de surveillance, du contrôle, du spectacle... Derrière les mots, des réalités qui façonnent nos vies."
 last_modified_at: 2025-06-27
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Société de l'information ? De contrôle ? De consommation ? Du spectacle ?"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+  
 ---
 
 ## Dans quelle société vivons-nous vraiment ?
