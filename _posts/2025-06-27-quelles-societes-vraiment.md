@@ -36,7 +36,7 @@ Le dossier **« Sociétés, et quoi ? »**, disponible sur notre forum, propose 
 Le dossier pose une question simple :  
 > **Et si nous apprenions à reconnaître les logiques dans lesquelles nous sommes plongés, pour mieux les subvertir ?**
 
-📘 Lire l'article complet ici : [https://ouaisfi.eu/viewtopic.php?t=61](https://ouaisfi.eu/viewtopic.php?t=61)
+📘 Lire l'article complet ici : [https://ouaisfi.eu/(https://ouaisfi.eu/viewtopic.php?t=61)
 
 ---
 
