@@ -19,7 +19,7 @@ image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictio
 header:
   overlay_image: /dossiers/assets/img/head.jpg
   overlay_filter: 0.3
-  caption: "Identité, économie, données : les trois couches du contrôle social"
+  caption: "Évoluer dans un monde saturé d’information"
   teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
 
