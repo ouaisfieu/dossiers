@@ -1,7 +1,9 @@
 ---
 title: "Donner un cap, pas des ordres : et si on s'inspirait de l’Auftragstaktik ?"
 layout: single
+classes: wide
 author_profile: false
+author: "ouaisfi.eu"
 read_time: true
 comments: false
 share: true
@@ -12,13 +14,21 @@ tags:
   - démocratie
   - participation
   - empowerment
-  - auftragstaktik
   - citoyenneté
 excerpt: "Et si l’Auftragstaktik prussienne pouvait inspirer une nouvelle manière de faire de la démocratie : non plus en donnant des ordres, mais en donnant un cap ?"
 last_modified_at: 2025-06-27
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Identité, économie, données : les trois couches du contrôle social"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+  
 ---
 
-# Donner un cap, pas des ordres : et si on s'inspirait de l’Auftragstaktik ?
+## Un cap, pas des ordres
 
 Dans une démocratie forte, les citoyens ne devraient pas simplement exécuter des instructions : ils devraient comprendre l’objectif, s’en emparer, et agir avec autonomie.
 
