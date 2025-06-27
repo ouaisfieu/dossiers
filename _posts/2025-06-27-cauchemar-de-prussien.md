@@ -37,6 +37,6 @@ Des exemples concrets sont discutés :
 
 👉 Une réflexion essentielle pour toute structure démocratique en quête d’efficacité et de légitimité.
 
-📘 Lire le dossier complet ici : [Cauchemar de Prussien](https://ouaisfi.eu/viewtopic.php?t=74))
+📘 Lire le dossier complet ici : [Cauchemar de Prussien](https://ouaisfi.eu/viewtopic.php?t=74)
 
 #Participation #Démocratie #Empowerment #PriseDeDécision #CitoyennetéActive
