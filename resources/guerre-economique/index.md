@@ -8,6 +8,10 @@ classes: wide
 categories: ["Guerre économique"]
 tags: ["Sanctions", "Embargos", "Guerres commerciales", "Société civile"]
 pdf: "dossier.pdf"
+
+head:
+  image: /dossiers/assets/img/societe-controle-frictions.jpg
+  og_image: "https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg"
 ---
 
 
