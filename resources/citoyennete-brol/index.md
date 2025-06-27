@@ -8,6 +8,10 @@ classes: wide
 categories: ["Citoyenneté & Administration"]
 tags: ["Bureaucratie", "Belgique", "Nationalité", "Contrôle social"]
 pdf: "dossier.pdf"
+
+header:
+  og_image: /dossiers/assets/img/head.jpg
+
 ---
 
 
