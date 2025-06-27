@@ -14,7 +14,6 @@ header:
   overlay_filter: 0.3
   caption: "L'info est faite pour être libre, partageons"
   teaser: /dossiers/assets/img/head.jpg
-  show_overlay_excerpt: true
 share: true
 related: true
 ---
