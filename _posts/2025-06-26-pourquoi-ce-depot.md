@@ -6,6 +6,13 @@ excerpt: "En un mot : partage"
 date: 2025-06-26
 tags: [partage, recherche, intelligence-artificielle, documentation]
 
+author: "ouaisfi.eu"
+author_profile: false
+read_time: true
+comments: false
+
+
+
 image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
   overlay_image: /dossiers/assets/img/head.jpg
