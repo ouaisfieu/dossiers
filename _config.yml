@@ -62,3 +62,18 @@ seo:
   twitter:
     card: summary_large_image
     username: "" # ou laisse vide
+
+defaults:
+  - scope:
+      path: ""
+      type: ressources
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: meta
+    values:
+      layout: single
+      author_profile: false
+
