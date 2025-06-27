@@ -1,13 +1,29 @@
 ---
+layout: single
+classes: wide
 title: "Comprendre l’évolution des échanges : de l’« intelligence » à la « stupidité » économique"
 description: "Une analyse historique et critique des systèmes d’échange, révélant la dérive de l’intelligence collective vers une économie abstraite, spéculative et oppressive. Le dossier explore aussi des alternatives citoyennes et solidaires."
 date: 2025-06-26
 last_modified_at: 2025-06-27
-layout: single
-classes: wide
-categories: ["Histoire économique"]
+excerpt: "Une analyse historique et critique des systèmes d’échange, révélant la dérive de l’intelligence collective vers une économie abstraite, spéculative et oppressive."
+author: "ouaisfi.eu"
+author_profile: false
+read_time: true
+comments: false
+share: true
+related: true
+
 tags: ["Troc", "Monnaie", "Finance", "Spéculation", "Modèles alternatifs"]
 pdf: "dossier.pdf"
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Ou comment passer du troc à la guerre économique"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+
 ---
 
 
