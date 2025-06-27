@@ -23,9 +23,15 @@ collections:
     output: true
     permalink: /:path/
 
-navigation: 
+navigation:
+  - title: "Accueil"
+    url: /
+  - title: "Ressources"
+    url: /ressources/
+  - title: "Métadonnées"
+    url: /meta/
   - title: "Tags"
-    url: /tags
+    url: /tags/
 
 # --- Search (Lunr.js) -------------------------------------------------
 search:
@@ -58,6 +64,9 @@ defaults:
 
 include:
   - _includes/head-custom.html
+  - pages
+  - tags
+
 
 # Image par défaut pour les réseaux sociaux
 seo:
