@@ -1,17 +1,28 @@
 ---
+layout: single
+classes: wide 
 title: "La citoyenneté, c’est le brol : un système complexe en perspective"
+author: "ouaisfi.eu"
+author_profile: false
+read_time: true
+comments: false
+share: true
+related: true
 description: "Exploration critique de la citoyenneté moderne à travers les lourdeurs administratives, le contrôle social et les comparaisons internationales. Un dossier pédagogique et percutant sur l'absurdité bureaucratique contemporaine."
 date: 2025-06-26
 last_modified_at: 2025-06-27
 layout: splash
-classes: wide
-categories: ["Citoyenneté & Administration"]
 tags: ["Bureaucratie", "Belgique", "Nationalité", "Contrôle social"]
 pdf: "dossier.pdf"
+image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 
 header:
   og_image: /dossiers/assets/img/head.jpg
-
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Et tire ton plan avec ça !"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
 ---
 
 
