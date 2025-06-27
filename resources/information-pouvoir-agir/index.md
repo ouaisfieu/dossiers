@@ -10,7 +10,7 @@ tags: ["Empowerment", "Education populaire", "Désinformation", "Intelligence co
 pdf: "dossier.pdf"
 header:
   og_image: /dossiers/assets/img/societe-controle-frictions.jpg
-
+  image: /dossiers/assets/img/societe-controle-frictions.jpg
 ---
 
 
