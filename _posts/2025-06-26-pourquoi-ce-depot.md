@@ -3,11 +3,8 @@ layout: single
 classes: wide 
 title: "Pourquoi ce dépôt ?"
 date: 2025-06-26
-categories: [meta]
 tags: [partage, recherche, intelligence-artificielle, documentation]
 
-layout: single
-classes: wide
 image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
   overlay_image: /dossiers/assets/img/head.jpg
@@ -18,7 +15,7 @@ share: true
 related: true
 ---
 
-# En un mot: partage
+## En deux mots ? Partage aussi
 
 Ce dépôt est né d’un élan très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. 
 
