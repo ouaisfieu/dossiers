@@ -9,7 +9,9 @@ tags: [partage, recherche, intelligence-artificielle, ouverture, documentation]
 
 En un mot : **partage**.
 
-Ce dépôt est né d’un besoin très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. Parce que ce n’est pas un projet de recherche au sens universitaire du terme, mais bel et bien une **exploration permanente**, à la croisée de la documentation, de la vulgarisation, et de la réflexion critique.
+Ce dépôt est né d’un besoin très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. 
+
+Parce que ce n’est pas un projet de recherche au sens universitaire du terme, mais bel et bien une **exploration permanente**, à la croisée de la documentation, de la vulgarisation, et de la réflexion critique.
 
 ---
 
@@ -32,9 +34,7 @@ Ce dépôt est **la trace de cette démarche**.
 
 Tout ici est destiné à être lu, critiqué, détourné, amélioré.
 
-Il n’y a pas de verrou, pas d’ambition commerciale.  
-Juste **l’envie de donner forme à des idées**,  
-et de **les laisser vivre ailleurs**, dans d’autres esprits.
+Il n’y a pas de verrou, pas d’ambition commerciale. Juste **l’envie de donner forme à des idées**, et de **les laisser vivre ailleurs**, dans d’autres esprits.
 
 ---
 
@@ -51,10 +51,10 @@ Ce que tu liras ici est souvent le fruit d’un **dialogue entre nous et une int
 
 ### 📚 Et maintenant ?
 
-Ce premier billet sert de **repère**, de **point d’entrée**.  
-Tu trouveras dans les prochaines publications des **dossiers complets**, des synthèses, parfois brutes, parfois rédigées.
+Ce premier billet sert de **repère**, de **point d’entrée**. Tu trouveras dans les prochaines publications des **dossiers complets**, des synthèses, parfois brutes, parfois rédigées.
 
-**À toi de te servir. Et pourquoi pas, de contribuer.**
+**À toi de te servir. 
+Et pourquoi pas, de contribuer.**
 
 ---
 
