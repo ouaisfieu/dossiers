@@ -8,7 +8,7 @@ tags: [partage, recherche, intelligence-artificielle, documentation]
 
 layout: single
 classes: wide
-image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
   overlay_image: /dossiers/assets/img/head.jpg
   overlay_filter: 0.3
@@ -17,7 +17,6 @@ header:
   show_overlay_excerpt: true
 ---
 
-En un mot : **partage**.
 
 Ce dépôt est né d’un élan très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. 
 
