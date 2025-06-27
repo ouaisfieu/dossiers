@@ -10,7 +10,7 @@ tags:
   - guerre économique
   - empouvoirement
   - information
-  - comparaison
+
 layout: single
 classes: wide
 image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
