@@ -22,7 +22,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
-
+header:
+  nav: main
 navigation:
   - title: "Accueil"
     url: /
