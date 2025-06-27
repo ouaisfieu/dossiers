@@ -1,13 +1,13 @@
 ---
 title: "Civic Tech & Open Data en Belgique : un écosystème en pleine effervescence"
 layout: single
+classes: wide
 author_profile: false
+author: "ouaisfi.eu"
 read_time: true
 comments: false
 share: true
 related: true
-categories:
-  - dossiers
 tags:
   - civic tech
   - open data
@@ -16,6 +16,15 @@ tags:
   - Belgique
 excerpt: "Partout en Belgique, des plateformes participatives, des hackathons citoyens et des portails open data font émerger une nouvelle culture démocratique."
 last_modified_at: 2025-06-27
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Foisonnement d’initiatives, panorama national belge"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+  
 ---
 
 En 2024, la Belgique voit émerger une dynamique forte autour des **technologies civiques (civic tech)** et de **l’ouverture des données publiques (open data)**, portée à la fois par les pouvoirs publics et la société civile.
