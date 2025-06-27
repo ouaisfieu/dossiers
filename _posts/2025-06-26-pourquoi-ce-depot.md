@@ -4,14 +4,24 @@ classes: wide
 title: "Pourquoi ce dépôt ?"
 date: 2025-06-26
 categories: [meta]
-tags: [partage, recherche, intelligence-artificielle, ouverture, documentation]
+tags: [partage, recherche, intelligence-artificielle, documentation]
+
+layout: single
+classes: wide
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "L'info est faite pour être libre, partageons"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
 ---
 
 En un mot : **partage**.
 
-Ce dépôt est né d’un besoin très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. 
+Ce dépôt est né d’un élan très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. 
 
-Parce que ce n’est pas un projet de recherche au sens universitaire du terme, mais bel et bien une **exploration permanente**, à la croisée de la documentation, de la vulgarisation, et de la réflexion critique.
+Parce que ce n’est pas un projet de recherche au sens académique du terme, mais bel et bien une **exploration permanente**, à la croisée de la documentation, de la vulgarisation, et de la réflexion critique.
 
 ---
 
