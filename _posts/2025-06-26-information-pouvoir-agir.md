@@ -8,8 +8,14 @@ classes: wide
 categories: ["Information & Pouvoir"]
 tags: ["Empowerment", "Education populaire", "Désinformation", "Intelligence collective"]
 pdf: "dossier.pdf"
+image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
-  og_image: /dossiers/assets/img/societe-controle-frictions.jpg
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "L'info c'est le pouvoir, pas pour tout le monde"
+  teaser: /dossiers/assets/img/head.jpg
+share: true
+related: true
 
 ---
 
