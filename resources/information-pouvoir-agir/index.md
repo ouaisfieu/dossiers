@@ -8,6 +8,9 @@ classes: wide
 categories: ["Information & Pouvoir"]
 tags: ["Empowerment", "Education populaire", "Désinformation", "Intelligence collective"]
 pdf: "dossier.pdf"
+header:
+  og_image: /dossiers/assets/img/societe-controle-frictions.jpg
+
 ---
 
 
