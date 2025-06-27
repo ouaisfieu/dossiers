@@ -3,8 +3,8 @@ description: "La citoyenneté, c'est le brol"
 url: "https://ouaisfieu.github.io"  
 baseurl: "/dossiers"                 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
-theme_skin_toggle: true
+minimal_mistakes_skin: "aqua" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
+
 
 # --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
