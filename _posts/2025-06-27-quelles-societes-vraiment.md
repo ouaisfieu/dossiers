@@ -21,7 +21,7 @@ image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictio
 header:
   overlay_image: /dossiers/assets/img/head.jpg
   overlay_filter: 0.3
-  caption: "Société de l'information ? De contrôle ? De consommation ? Du spectacle ?"
+  caption: "Et « Faire société » avec ça !"
   teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
   
