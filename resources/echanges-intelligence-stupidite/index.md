@@ -13,6 +13,8 @@ pdf: "dossier.pdf"
 
 > *« Chaque saut technologique a promis l’abondance ; mal maîtrisé, il a aussi enfanté crises et inégalités. »*   
 
+![image|256](https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg)
+
 ## Structure du dossier
 
 | # | Section | Question clé |
