@@ -22,23 +22,14 @@ collections:
   pages:
     output: true
     permalink: /:path/
-header:
-  nav: main
-navigation:
-  - title: "Accueil"
-    url: /
-  - title: "Ressources"
-    url: /ressources/
-  - title: "Métadonnées"
-    url: /meta/
-  - title: "Tags"
-    url: /tags/
+
 
 # --- Search (Lunr.js) -------------------------------------------------
 search:
   provider: lunr
   lunr_lang: fr
   output: search.json
+  search_within_pages: true
 
 # --- Markdown ----------------------------------------------------------
 markdown: kramdown
