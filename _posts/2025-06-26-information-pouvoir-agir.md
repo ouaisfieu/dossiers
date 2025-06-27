@@ -2,6 +2,7 @@
 title: "La place de l’information dans l’empouvoirement individuel et le pouvoir d’agir collectif"
 excerpt: "Un dossier sur le rôle clé de l’information dans l’émancipation personnelle et la mobilisation collective, entre éducation populaire, luttes sociales et défis numériques."
 description: "Un dossier sur le rôle clé de l’information dans l’émancipation personnelle et la mobilisation collective, entre éducation populaire, luttes sociales et défis numériques."
+
 date: 2025-06-26
 last_modified_at: 2025-06-27
 layout: single          
