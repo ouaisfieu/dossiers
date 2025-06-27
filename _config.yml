@@ -23,6 +23,10 @@ collections:
     output: true
     permalink: /:path/
 
+navigation: 
+  - title: "Tags"
+    url: /tags
+
 # --- Search (Lunr.js) -------------------------------------------------
 search:
   provider: lunr
