@@ -15,10 +15,13 @@ plugins:
   - jekyll-paginate         # pour la pagination
 
 # --- Collections ------------------------------------------------------
-# collections:
-#  dossiers:
-#    output: true
-#    permalink: /dossiers/:title/
+collections:
+  dossiers:
+    output: true
+    permalink: /dossiers/:title/
+  pages:
+    output: true
+    permalink: /:path/
 
 # --- Search (Lunr.js) -------------------------------------------------
 search:
