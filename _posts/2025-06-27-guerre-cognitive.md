@@ -1,6 +1,8 @@
 ---
 title: "La guerre cognitive : l'information comme champ de bataille"
 layout: single
+classes: wide
+author: "ouaisfi.eu"
 author_profile: false
 read_time: true
 comments: false
@@ -15,6 +17,14 @@ tags:
   - influence
 excerpt: "Comprendre la guerre cognitive : comment on façonne l’opinion avant même que la guerre ne commence."
 last_modified_at: 2025-06-27
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "‘gagner la guerre avant la guerre’"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
 ---
 
 
