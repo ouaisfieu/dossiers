@@ -1,13 +1,13 @@
 ---
 title: "Infobésité : quand trop d’information tue l’information"
 layout: single
+classes: wide
+author: "ouaisfi.eu"
 author_profile: false
 read_time: true
 comments: false
 share: true
 related: true
-categories:
-  - dossiers
 tags:
   - infobésité
   - surcharge informationnelle
@@ -16,6 +16,15 @@ tags:
   - désinformation
 excerpt: "Le flot d’informations permanent nuit à notre santé mentale, notre esprit critique et notre capacité d’agir. Ce dossier décrypte les effets profonds de la surinformation."
 last_modified_at: 2025-06-27
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Notre jugement se brouille. Et notre société se fragmente."
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+  
 ---
 
 ## Infobésité : quand trop d’information tue l’information
