@@ -18,6 +18,7 @@ share: true
 related: true
 ---
 
+# En un mot: partage
 
 Ce dépôt est né d’un élan très simple et très humain : **faire circuler ce que l’intelligence artificielle nous aide à comprendre**, produire, organiser. 
 
