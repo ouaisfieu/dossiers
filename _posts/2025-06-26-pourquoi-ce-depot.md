@@ -18,7 +18,7 @@ Ce dépôt est né d’un besoin très simple et très humain : **faire circuler
 Il ne s’agit pas d’une recherche classique :  
 > nous ne sommes ni professeurs, ni chercheuses, ni expert·e·s.
 
-Mais on m’appuie sur des outils actuels – dont ChatGPT – pour **approfondir des sujets qui nous tiennent à cœur** :  
+Mais on s’appuie sur des outils actuels – dont ChatGPT – pour **approfondir des sujets qui nous tiennent à cœur** :  
 - information, pouvoir d’agir et citoyenneté,  
 - technologies et leurs usages sociaux,  
 - documentation, démocratie, accès libre à la connaissance,  
