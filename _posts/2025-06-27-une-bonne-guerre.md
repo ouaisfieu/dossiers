@@ -18,9 +18,6 @@ excerpt: "Embargos, sanctions, chantage énergétique : la guerre économique es
 last_modified_at: 2025-06-27
 ---
 
-
-## La guerre économique ne tue pas par des bombes, mais par la pénurie
-
 > *« La guerre économique ne tue pas par des bombes. Elle tue par la pénurie. »*
 
 Aujourd’hui, les conflits ne se jouent plus seulement sur les champs de bataille. Dans un monde globalisé, **les sanctions économiques, les embargos, les restrictions technologiques ou le chantage énergétique** sont devenus des armes à part entière.
