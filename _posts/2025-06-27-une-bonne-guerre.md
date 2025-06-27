@@ -1,13 +1,13 @@
 ---
 title: "Allez, une bonne guerre"
 layout: single
+classes: wide
+author: "ouaisfi.eu"
 author_profile: false
 read_time: true
 comments: false
 share: true
 related: true
-categories:
-  - dossiers
 tags:
   - géopolitique
   - sanctions
@@ -16,6 +16,17 @@ tags:
   - société
 excerpt: "Embargos, sanctions, chantage énergétique : la guerre économique est la forme invisible des conflits modernes. Mais qui en paie vraiment le prix ?"
 last_modified_at: 2025-06-27
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "les premières victimes sont les populations civiles"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+share: true
+related: true
+
 ---
 
 > *« La guerre économique ne tue pas par des bombes. Elle tue par la pénurie. »*
