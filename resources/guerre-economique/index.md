@@ -30,7 +30,7 @@ header:
 
 
 > *« La guerre économique est l’art de briser un adversaire sans tirer un coup de feu –  
-> mais ce sont pourtant les civils qui encaissent la première salve. »*
+> mais ce sont pourtant les civils qui encaissent sur tous les fronts. »*
 
 ## Structure du dossier
 
