@@ -13,7 +13,7 @@ image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
   overlay_image: /dossiers/assets/img/head.jpg
   overlay_filter: 0.3
-  caption: "L'info c'est le pouvoir, pas pour tout le monde"
+  caption: "L'info c'est le pouvoir, mais pas pour tout le monde"
   teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
 
