@@ -1,18 +1,7 @@
 <!-- Favicon -->
-<link rel="icon" href="/dossiers/favicon.png" type="image/png">
+<link rel="icon" href="{{ '/favicon.png' | relative_url }}" type="image/png">
 
-<!-- Image Open Graph et Twitter par défaut -->
-<meta property="og:image" content="https://ouaisfieu.github.io/dossiers/assets/img/head.jpg" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://ouaisfieu.github.io/dossiers/assets/img/head.jpg" />
-
-<!-- Vérification Google -->
-<meta name="google-site-verification" content="zbDxfh0YRwPq1EWeeACKsKFwAhHsWX9WAycure8XirE" />
-
-<!-- Surcharge dynamique des images OG si définies dans le front matter -->
-{%- comment -%}
-  Priorité d'image : page.header.og_image → page.header.overlay_image → page.image
-{%- endcomment -%}
+<!-- Image Open Graph et Twitter dynamique si page.image est défini -->
 {%- assign og_img = page.header.og_image
                   | default: page.header.overlay_image
                   | default: page.image -%}
@@ -26,6 +15,8 @@
   <meta name="twitter:card" content="summary_large_image">
 {%- endif -%}
 
-<!-- Génération automatique des métadonnées SEO -->
-{% seo %}
+<!-- Vérification Google Search Console -->
+<meta name="google-site-verification" content="zbDxfh0YRwPq1EWeeACKsKFwAhHsWX9WAycure8XirE" />
 
+<!-- Métadonnées SEO complètes (title, description, canonical, structured data, etc.) -->
+{% seo %}
