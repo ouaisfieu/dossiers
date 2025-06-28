@@ -5,13 +5,27 @@ date: 2025-06-26
 last_modified_at: 2025-06-27
 layout: single
 classes: wide
-categories: ["Guerre économique"]
 tags: ["Sanctions", "Embargos", "Guerres commerciales", "Société civile"]
 pdf: "dossier.pdf"
 
-head:
-  image: /dossiers/assets/img/societe-controle-frictions.jpg
-  og_image: "https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg"
+
+
+excerpt: "Analyse stratégique et humanitaire de la guerre économique moderne, ses outils (sanctions, embargos, normes) et ses impacts profonds sur les sociétés civiles à travers le monde."
+author: "ouaisfi.eu"
+author_profile: false
+read_time: true
+comments: false
+share: true
+related: true
+
+image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
+header:
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Allez, une bonne guerre"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+  
 ---
 
 
