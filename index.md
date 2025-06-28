@@ -1,7 +1,7 @@
 ---
 layout: home          # ou "splash" si tu préfères
 classes: wide 
-title: "·"
+title: "· -"
 description: "Une porte d’entrée critique vers quatre grands dossiers sur l’économie, la citoyenneté, la guerre économique et l’information. Chaque fiche combine analyse, vulgarisation et pistes d’action concrètes."
 permalink: /
 last_modified_at: 2025-06-27
@@ -10,6 +10,10 @@ header:
   overlay_filter: 0.4                     # fonce le fond (0 = opaque, 1 = transparent)
   overlay_color: "#000000"                # noir
   caption: "La citoyenneté, c'est le brol"                             # (optionnel) copyright ou source de l’image
+
+head:
+  og_image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
+
 ---
 
 ## Panorama des dossiers
