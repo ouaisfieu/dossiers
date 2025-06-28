@@ -1,15 +1,24 @@
 ---
 title: "La place de l’information dans l’empouvoirement individuel et le pouvoir d’agir collectif"
+excerpt: "Un dossier sur le rôle clé de l’information dans l’émancipation personnelle et la mobilisation collective, entre éducation populaire, luttes sociales et défis numériques."
 description: "Un dossier sur le rôle clé de l’information dans l’émancipation personnelle et la mobilisation collective, entre éducation populaire, luttes sociales et défis numériques."
+
 date: 2025-06-26
 last_modified_at: 2025-06-27
 layout: single          
 classes: wide
-categories: ["Information & Pouvoir"]
 tags: ["Empowerment", "Education populaire", "Désinformation", "Intelligence collective"]
 pdf: "dossier.pdf"
+image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
-  og_image: /dossiers/assets/img/societe-controle-frictions.jpg
+  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "L'info c'est le pouvoir, pas pour tout le monde"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+
+share: true
+related: true
 
 ---
 
