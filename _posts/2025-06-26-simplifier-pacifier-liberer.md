@@ -1,8 +1,10 @@
 ---
+head:
+  og_image: "https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg"
 title: "Simplifier le brol, pacifier l’économie, libérer l’information"
 excerpt: "Comparaison de trois textes sur les mécanismes de pouvoir liés à la citoyenneté, aux sanctions économiques et à l’information."
 date: 2025-06-26
-author: "ChatGPT"
+author: "ouaisfi.eu"
 categories:
   - dossiers
 tags:
@@ -22,6 +24,9 @@ header:
   show_overlay_excerpt: true
 share: true
 related: true
+
+
+
 ---
 
 # Trois textes, un même fil rouge : comment le **pouvoir d’État** passe aujourd’hui par le **contrôle de statuts, de ressources et d’informations**, et comment les citoyens peuvent (ou non) reprendre la main
