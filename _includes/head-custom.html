@@ -1,20 +1,6 @@
 <!-- Favicon -->
 <link rel="icon" href="{{ '/favicon.png' | relative_url }}" type="image/png">
 
-<!-- Image Open Graph et Twitter dynamique si page.image est défini -->
-{%- assign og_img = page.header.og_image
-                  | default: page.header.overlay_image
-                  | default: page.image -%}
-
-{%- if og_img %}
-  {%- unless og_img contains '://' -%}
-    {%- assign og_img = og_img | absolute_url -%}
-  {%- endunless -%}
-  <meta property="og:image" content="{{ og_img }}">
-  <meta name="twitter:image" content="{{ og_img }}">
-  <meta name="twitter:card" content="summary_large_image">
-{%- endif -%}
-
 <!-- Vérification Google Search Console -->
 <meta name="google-site-verification" content="zbDxfh0YRwPq1EWeeACKsKFwAhHsWX9WAycure8XirE" />
 
