@@ -23,6 +23,7 @@ header:
   caption: "Et tire ton plan avec ça !"
   teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
+  
 ---
 
 
