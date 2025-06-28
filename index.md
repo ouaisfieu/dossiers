@@ -10,9 +10,6 @@ header:
   overlay_filter: 0.4                     # fonce le fond (0 = opaque, 1 = transparent)
   overlay_color: "#000000"                # noir
   caption: "La citoyenneté, c'est le brol"                             # (optionnel) copyright ou source de l’image
-  og_image: "https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg"
-head:
-  og_image: "https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg"
 
 ---
 
