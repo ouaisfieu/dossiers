@@ -41,7 +41,7 @@ Ce dossier explore la **veille citoyenne** comme levier d’empouvoirement : com
 | **Enjeux stratégiques** | Renforcer la redevabilité démocratique ; identifier dysfonctionnements et orienter les politiques |
 | **Obstacles** | Complexité administrative, manque de ressources, désinformation, méfiance citoyenne |
 | **Formats innovants** | Magazines participatifs (Snooze), plateformes hybrides, balades urbaines, hackathons de données |
-| **Gouvernance & mutualisation** | Charte ouverte, licences libres, documentation continue, réseau inter-collectifs |  |
+| **Gouvernance & mutualisation** | Charte ouverte, licences libres, documentation continue, réseau inter-collectifs | 
 
 ---
 
@@ -92,7 +92,7 @@ La veille citoyenne est « le regard porté par les citoyens sur la mise en œuv
 | Institutionnels | Complexité administrative, cloisonnement des compétences, accès restreint aux données. |  
 | Ressources | Manque de financements, compétences limitées dans les associations. |  
 | Culturels | Faible culture civique, méfiance envers l’action collective, désinformation. |  
-| Politiques | Résistances d’élus ; interpellations citoyennes sous-utilisées. |  
+| Politiques | Résistances d’élus ; interpellations citoyennes sous-utilisées. |  |
 
 ### 5. Formats et dispositifs innovants  
 - **Média participatif :** *Snooze* (Hainaut) distribué dans 37 points info jeunesse.  
