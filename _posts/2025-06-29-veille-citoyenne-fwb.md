@@ -41,7 +41,7 @@ Ce dossier explore la **veille citoyenne** comme levier d’empouvoirement : com
 | **Enjeux stratégiques** | Renforcer la redevabilité démocratique ; identifier dysfonctionnements et orienter les politiques |
 | **Obstacles** | Complexité administrative, manque de ressources, désinformation, méfiance citoyenne |
 | **Formats innovants** | Magazines participatifs (Snooze), plateformes hybrides, balades urbaines, hackathons de données |
-| **Gouvernance & mutualisation** | Charte ouverte, licences libres, documentation continue, réseau inter-collectifs |
+| **Gouvernance & mutualisation** | Charte ouverte, licences libres, documentation continue, réseau inter-collectifs |  |
 
 ---
 
