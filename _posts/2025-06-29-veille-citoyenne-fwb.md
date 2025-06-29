@@ -45,9 +45,21 @@ Ce dossier explore la **veille citoyenne** comme levier d’empouvoirement : com
 
 ---
 
-## Télécharger le rapport
+## Télécharger ou consulter
 
-[📄 Rapport complet]({{ page.pdf }})
+<p>
+  <a class="btn btn--primary" href="https://ouaisfieu.github.io/dossiers/assets/pdfs/veille-citoyenne-fwb.pdf">💾 Télécharger le PDF</a>
+  <a class="btn btn--info" href="https://ouaisfieu.github.io/dossiers/assets/pdfs/veille-citoyenne-fwb.pdf" target="_blank" rel="noopener">↗️ Ouvrir dans un nouvel onglet</a>
+</p>
+
+<!-- Lecteur PDF natif du navigateur -->
+<iframe
+  src="/dossiers/assets/pdfs/veille-citoyenne-fwb.pdf#toolbar=1"
+  width="100%"
+  height="700"
+  style="border:none;"
+  loading="lazy">
+</iframe>
 
 ---
 
