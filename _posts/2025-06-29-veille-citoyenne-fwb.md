@@ -87,12 +87,13 @@ La veille citoyenne est « le regard porté par les citoyens sur la mise en œuv
 - **Influence sur l’agenda** : rapports citoyens → révisions de priorités publiques, meilleure communication institutionnelle. 
 
 ### 4. Obstacles à la transformation  
-| Catégorie | Détails clés |  
-|-----------|--------------|  
-| Institutionnels | Complexité administrative, cloisonnement des compétences, accès restreint aux données. |  
-| Ressources | Manque de financements, compétences limitées dans les associations. |  
-| Culturels | Faible culture civique, méfiance envers l’action collective, désinformation. |  
-| Politiques | Résistances d’élus ; interpellations citoyennes sous-utilisées. |  |
+| Catégorie | Détails clés |
+|--------------|-------------------------------------------------------------------------|
+| Institutionnels | Complexité administrative, cloisonnement des compétences, accès restreint aux données. |
+| Ressources | Manque de financements, compétences limitées dans les associations. |
+| Culturels | Faible culture civique, méfiance envers l’action collective, désinformation. |
+| Politiques | Résistances d’élus ; interpellations citoyennes sous-utilisées. |
+
 
 ### 5. Formats et dispositifs innovants  
 - **Média participatif :** *Snooze* (Hainaut) distribué dans 37 points info jeunesse.  
