@@ -15,7 +15,7 @@ comments: false
 
 image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
-  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "L'info est faite pour être libre, partageons"
   teaser: /dossiers/assets/img/head.jpg
