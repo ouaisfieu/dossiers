@@ -20,7 +20,7 @@ last_modified_at: 2025-06-27
 
 image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
 header:
-  overlay_image: "{{ '/assets/img/head.jpg' | relative_url }}"
+  overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Opérateurs, outils et productions consacrés à la participation citoyenne"
   teaser: /dossiers/assets/img/head.jpg
