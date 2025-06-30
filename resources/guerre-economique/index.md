@@ -20,10 +20,10 @@ related: true
 
 image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
-  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Allez, une bonne guerre"
-  teaser: /assets/img/head.jpg
+  teaser: dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
   
 ---
