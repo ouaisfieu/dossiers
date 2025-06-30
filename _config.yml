@@ -102,3 +102,17 @@ defaults:
       layout: single
       author_profile: false
 
+
+
+
+# _config.yml  – ajoute ceci
+collections:
+  plaidoyer:
+    output: true        # génère des pages html
+    permalink: /plaidoyer/:path/
+defaults:
+  - scope:
+      path: ""          # toutes les pages de la collection
+      type: plaidoyer
+    values:
+      layout: page      # ou ta mise en page custom
