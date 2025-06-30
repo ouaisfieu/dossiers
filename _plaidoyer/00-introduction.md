@@ -28,17 +28,17 @@ last_modified_at: 2025-06-27
   
 ---
 
-> *« Le monde dans lequel nous vivons est traversé par de multiples crises … »* :contentReference[oaicite:0]{index=0}
+> *« Le monde dans lequel nous vivons est traversé par de multiples crises … »*
 
 Nos sociétés font face à des défis entremêlés — **sociaux, environnementaux, économiques** — qui questionnent notre capacité collective à *faire bouger les lignes*. Entre révolte et paralysie, beaucoup de citoyen·ne·s refusent pourtant la fatalité : **ils se mobilisent, s’engagent, et interpellent le pouvoir**.
 
-### Pourquoi ce guide ?
+### Pourquoi cet article ?
 
-Parce que le plaidoyer est un **levier stratégique** trop souvent réservé aux professionnel·le·s, alors qu’il est **à la portée de chacun·e** lorsqu’il s’appuie sur une méthode claire et des outils concrets. Le présent livret se veut une **boîte à outils** pour :
+Parce que le plaidoyer est un **levier stratégique** trop souvent réservé aux professionnel·le·s, alors qu’il est **à la portée de chacun·e** lorsqu’il s’appuie sur une méthode claire et des outils concrets. Le livret suivant se veut une **boîte à outils** pour :
 
 * décrypter le contexte et les rapports de force ;
 * formuler des revendications crédibles ;
-* influencer les décisions publiques de l’échelle locale à l’international. :contentReference[oaicite:1]{index=1}
+* influencer les décisions publiques de l’échelle locale à l’international.
 
 ### La démarche « voir – juger – agir »
 
@@ -52,15 +52,29 @@ Parce que le plaidoyer est un **levier stratégique** trop souvent réservé aux
 
 ### Quinze outils pour passer à l’action
 
-Le guide déroule **15 fiches pratiques** classées dans les trois parties ci-dessus. Chacune fournit objectifs, mode d’emploi et exemples. Tu les retrouveras dans cette section, juste après cette introduction.
+Le guide déroule **15 fiches pratiques** classées dans les trois parties ci-dessus. Chacune fournit objectifs, mode d’emploi et exemples.
 
 ### Présentation et remerciements
 
 Ce guide est une publication de la **Commission Justice & Paix francophone de Belgique**, organisation d’éducation permanente et ONG basée à Bruxelles.  
 Il a été coordonné par **Timur Uluç** et rédigé avec **Yvonne Clément, Clara Debeve et Anne-Claire Willocx**. Leur expertise en engagement citoyen et en droits humains nourrit chaque page. Grâce à elles et à l’équipe Justice & Paix, nous disposons aujourd’hui d’un parcours pédagogique accessible et motivant — **qu’elles en soient vivement remerciées !**
 
-> *« Nous espérons que ce petit guide vous donnera les clefs pour vous saisir du concept de plaidoyer et étoffer votre pouvoir d’action. »* — Commission Justice & Paix :contentReference[oaicite:2]{index=2}
+> *« Nous espérons que ce petit guide vous donnera les clefs pour vous saisir du concept de plaidoyer et étoffer votre pouvoir d’action. »* — Commission Justice & Paix
 
 ---
 
-Prêt·e ? Débutons notre voyage par la partie **VOIR**, avec l’*Outil 1 – Domino du changement* !
+## Télécharger ou consulter
+
+<p>
+  <a class="btn btn--primary" href="dossier.pdf">💾 Télécharger le PDF</a>
+  <a class="btn btn--info" href="dossier.pdf" target="_blank" rel="noopener">↗️ Ouvrir dans un nouvel onglet</a>
+</p>
+
+<!-- Lecteur PDF natif du navigateur -->
+<iframe
+  src="/dossiers/_plaidoyer/dossier.pdf#toolbar=1"
+  width="100%"
+  height="700"
+  style="border:none;"
+  loading="lazy">
+</iframe>
