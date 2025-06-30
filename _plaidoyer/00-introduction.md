@@ -12,7 +12,7 @@ comments: false
 share: true
 related: true
 
-
+permalink: /plaidoyer/
 image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
 header:
   overlay_image: /assets/img/head.jpg
