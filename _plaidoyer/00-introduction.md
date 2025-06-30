@@ -72,7 +72,7 @@ Il a été coordonné par **Timur Uluç** et rédigé avec **Yvonne Clément, Cl
 
 <!-- Lecteur PDF natif du navigateur -->
 <iframe
-  src="/dossiers/_plaidoyer/dossier.pdf#toolbar=1"
+  src="https://ouaisfieu.github.io/dossiers/plaidoyer/dossier.pdf#toolbar=1"
   width="100%"
   height="700"
   style="border:none;"
