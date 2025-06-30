@@ -1,29 +1,21 @@
 ---
-
 title: "Ouaisfi.eu : de la veille citoyenne artisanale à une démarche d’analyse critique en règle"
 date: 2025-06-30
 layout: post
 classes: wide
-tags: [éducation-permanente, axe-3-2, veille-citoyenne, open-data]
+tags: [éducation-permanente, veille-citoyenne, open-data]
+image: /assets/img/societe-controle-frictions.jpg  
 header:
   overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "L'info est faite pour être libre, partageons"
-  teaser: /dossiers/assets/img/head.jpg
+  teaser: /assets/img/head.jpg
   show_overlay_excerpt: true
 share: true
 related: true
-
 author: "ouaisfi.eu"
 read_time: true
 comments: false
-image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
-header:
-  overlay_image: /assets/img/head.jpg
-  overlay_filter: 0.3
-  caption: "Merci vocabulairepolitique.be !"
-  teaser: /dossiers/assets/img/head.jpg
-  show_overlay_excerpt: true
 
 ---
 
