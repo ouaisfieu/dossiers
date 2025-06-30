@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "L'info est faite pour être libre, partageons"
-  teaser: /assets/img/head.jpg
+  teaser: dossier/assets/img/head.jpg
   show_overlay_excerpt: false
 share: true
 related: true
