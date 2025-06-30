@@ -4,14 +4,16 @@ description: >-
   Empouvoirement citoyen en Fédération Wallonie-Bruxelles : la citoyenneté, c'est le brol.
 url: "https://ouaisfieu.github.io"  
 baseurl: "/dossiers"                 
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
-lang: fr
+
 timezone: Europe/Brussels
 logo: /assets/img/clov-logo.png      # 512×512 recommandé
 
 
-
+# 2. Thème (Minimal Mistakes en remote_theme)
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
+lang: fr
 
 # --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
