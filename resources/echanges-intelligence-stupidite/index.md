@@ -18,7 +18,7 @@ pdf: "dossier.pdf"
 
 image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
-  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Ou comment passer du troc à la guerre économique"
   teaser: /dossiers/assets/img/head.jpg
