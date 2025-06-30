@@ -1,6 +1,8 @@
 ---
 title: "Dans quelle société vivons-nous vraiment ?"
 layout: single
+classes: wide
+
 author: "ouaisfi.eu"
 author_profile: false
 read_time: true
