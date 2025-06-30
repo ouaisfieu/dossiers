@@ -23,7 +23,7 @@ header:
   overlay_image: /dossiers/assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Allez, une bonne guerre"
-  teaser: /dossiers/assets/img/head.jpg
+  teaser: /assets/img/head.jpg
   show_overlay_excerpt: true
   
 ---
