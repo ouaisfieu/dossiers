@@ -16,9 +16,4 @@ main:
 
   - title: "Plaidoyer"
     url: "/plaidoyer/"
-    children:
-      {% raw %}{% assign pages_sorted = site.plaidoyer | sort: 'order' %}
-      {% for p in pages_sorted %}
-        - title: "{{ p.title }}"
-          url: "{{ p.url }}"
-      {% endfor %}{% endraw %}
+
