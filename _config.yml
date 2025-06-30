@@ -1,9 +1,13 @@
 title: "ouaisfi.eu"
 tagline: "Veille citoyenne • Ressources libres • Empowerment"
-description: >-
-  Empouvoirement citoyen en Fédération Wallonie-Bruxelles : la citoyenneté, c'est le brol.
+description: "Empouvoirement citoyen en Fédération Wallonie-Bruxelles : la citoyenneté, c'est le brol."
 url: "https://ouaisfieu.github.io"  
 baseurl: "/dossiers"                 
+
+# --- Vérifications moteurs -------------------------------------------
+webmaster_verifications:
+  google: "zbDxfh0YRwPq1EWeeACKsKFwAhHsWX9WAycure8XirE"
+
 
 timezone: Europe/Brussels
 logo: /assets/img/clov-logo.png      # 512×512 recommandé
@@ -13,6 +17,14 @@ logo: /assets/img/clov-logo.png      # 512×512 recommandé
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin: "dark" # change ici pour dark, plum, default, air, aqua, contrast, dirt, neon, mint
 lang: fr
+author:
+  name: "ouaisfi.eu"
+  avatar: "https://ouaisfieu.github.io/dossiers/assets/img/clov-logo.png"
+
+social:
+  links:
+    - "https://github.com/ouaisfieu"
+    - "https://bsky.app/profile/ouaisfieu.bsky.social"
 
 # --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
