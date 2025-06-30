@@ -1,7 +1,7 @@
 ---
 title: "Ouaisfi.eu : de la veille citoyenne artisanale à une démarche d’analyse critique en règle"
 date: 2025-06-30
-layout: post
+layout: single
 classes: wide
 tags: [éducation-permanente, veille-citoyenne, open-data]
 image: /assets/img/societe-controle-frictions.jpg  
