@@ -1,4 +1,5 @@
 ---
+
 title: "Ouaisfi.eu : de la veille citoyenne artisanale à une démarche d’analyse critique en règle"
 date: 2025-06-30
 layout: post
@@ -13,6 +14,20 @@ header:
   show_overlay_excerpt: true
 share: true
 related: true
+
+author: "ouaisfi.eu"
+read_time: true
+comments: false
+image: "https://ouaisfieu.github.io/dossiers/assets/img/societe-controle-frictions.jpg"
+header:
+  overlay_image: /assets/img/head.jpg
+  overlay_filter: 0.3
+  caption: "Merci vocabulairepolitique.be !"
+  teaser: /dossiers/assets/img/head.jpg
+  show_overlay_excerpt: true
+
+
+
 
 ---
 
