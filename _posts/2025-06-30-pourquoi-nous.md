@@ -22,8 +22,7 @@ comments: false
 ## Ouaisfi.eu : l’essentiel
 
 **En deux phrases**  
-Ouaisfi.eu propose quatre dossiers critiques (échanges économiques, citoyenneté, sanctions, information & pouvoir d’agir).  
-Tout est publié sous licence CC BY-SA 4.0 sur un site Jekyll hébergé gratuitement sur GitHub Pages.
+Ouaisfi.eu propose quatre dossiers critiques (échanges économiques, citoyenneté, sanctions, information & pouvoir d’agir). Tout est publié sous licence CC BY-SA 4.0 sur un site Jekyll hébergé gratuitement sur GitHub Pages.
 
 ---
 
@@ -58,18 +57,17 @@ Chaque fiche contient : résumé clair, mots-clés, citation courte, PDF téléc
 - **Licence libre :** CC BY-SA 4.0 (réutilisation encouragée).  
 - **Processus ouvert :** issues et pull-requests bienvenus sur GitHub.  
 - **Vocabulaire simple :** chaque terme technique expliqué en ≤ 150 mots.  
-- **Visuels :** SVG, compatibles impression comme écran.
 
 ---
 
-### 5. Conformité à l’axe 3.2 (Décret Éducation permanente)  
+### 5. Conformité règlementaire (Décret Éducation permanente)  
 
 | Exigence | Réponse Ouaisfi.eu |
 |----------|-------------------|
 | Analyses de société | 4 dossiers référencés |
 | Regard critique | Contexte, chiffres, pistes d’action |
 | Public adulte large | Accès libre, PDF, relais sur réseaux fédérés |
-| Citoyenneté active | Contributions Git, ateliers budget |
+| Citoyenneté active | Contributions Git, ateliers-débats |
 
 ---
 
@@ -82,9 +80,9 @@ Chaque fiche contient : résumé clair, mots-clés, citation courte, PDF téléc
 
 **Défis**  
 - Adapter chaque PDF en version « lecture facile » et audio.  
-- Créer un comité de lecture mêlant citoyens et chercheurs.  
+- Créer un comité de lecture mêlant citoyen·ne·s et experts.  
 - Mesurer l’impact : téléchargements, contributions, citations.  
-- Organiser des ateliers budget dans les quartiers bruxellois (avec la FESEFA).
+- Organiser des ateliers-débat en partenariat avec des asbl d'EP reconnues.
 
 ---
 
@@ -96,4 +94,4 @@ Chaque fiche contient : résumé clair, mots-clés, citation courte, PDF téléc
 
 ---
 
-*Rédigé par la cellule « Analyses – Ouaisfi.eu » • Licence : CC BY-SA 4.0 – Reprise et remix bienvenus.*
+*Rédigé par la « cellule Analyse – Ouaisfi.eu » • Licence : CC BY-SA 4.0 – Reprise et remix bienvenus.*
