@@ -14,6 +14,10 @@ main:
   - title: "Nous"
     url: "https://ouaisfieu.github.io/dossiers/2025/06/30/pourquoi-nous.html"
 
-  #- title: "Plaidoyer"
-    #url: "/plaidoyer/"
-
+  - title: "Plaidoyer"
+    url: /plaidoyer/
+    items:
+      {% for p in site.plaidoyer | sort: "order" %}
+      - title: "{{ p.title }}"
+        url: "{{ p.url }}"
+      {% endfor %}
