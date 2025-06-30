@@ -5,7 +5,6 @@ date: 2025-06-30
 layout: post
 classes: wide
 tags: [éducation-permanente, axe-3-2, veille-citoyenne, open-data]
-image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 header:
   overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
@@ -25,9 +24,6 @@ header:
   caption: "Merci vocabulairepolitique.be !"
   teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
-
-
-
 
 ---
 
