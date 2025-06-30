@@ -29,8 +29,6 @@ header:
 
 > *« Chaque saut technologique a promis l’abondance ; mal maîtrisé, il a aussi enfanté crises et inégalités. »*   
 
-![image](https://ouaisfieu.github.io/dossiers/assets/img/cover.jpg)
-
 ## Structure du dossier
 
 | # | Section | Question clé |
