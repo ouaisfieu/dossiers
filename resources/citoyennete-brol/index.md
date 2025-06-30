@@ -18,7 +18,7 @@ image: "https://ouaisfieu.github.io/dossiers/assets/img/head.jpg"
 
 header:
   og_image: /dossiers/assets/img/head.jpg
-  overlay_image: /dossiers/assets/img/head.jpg
+  overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Et tire ton plan avec ça !"
   teaser: /dossiers/assets/img/head.jpg
