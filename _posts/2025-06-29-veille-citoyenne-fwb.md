@@ -18,7 +18,7 @@ header:
   overlay_image: /assets/img/head.jpg
   overlay_filter: 0.3
   caption: "Suivre, analyser, influencer"
-  # teaser: /dossiers/assets/img/head.jpg
+  teaser: /dossiers/assets/img/head.jpg
   show_overlay_excerpt: true
 share: true
 related: true
