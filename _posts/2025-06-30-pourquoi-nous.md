@@ -19,7 +19,7 @@ comments: false
 
 ---
 
-## Ouaisfi.eu : l’essentiel, sans chichis  
+## Ouaisfi.eu : l’essentiel
 
 **En deux phrases**  
 Ouaisfi.eu propose quatre dossiers critiques (échanges économiques, citoyenneté, sanctions, information & pouvoir d’agir).  
