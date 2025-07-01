@@ -66,13 +66,13 @@ Il a été coordonné par **Timur Uluç** et rédigé avec **Yvonne Clément, Cl
 ## Télécharger ou consulter
 
 <p>
-  <a class="btn btn--primary" href="dossier.pdf">💾 Télécharger le PDF</a>
-  <a class="btn btn--info" href="dossier.pdf" target="_blank" rel="noopener">↗️ Ouvrir dans un nouvel onglet</a>
+  <a class="btn btn--primary" href="https://www.justicepaix.be/wp-content/uploads/2021/10/20200110_Guide_plaidoyer_citoyen_VD.pdf">💾 Télécharger le PDF</a>
+  <a class="btn btn--info" href="https://www.justicepaix.be/wp-content/uploads/2021/10/20200110_Guide_plaidoyer_citoyen_VD.pdf" target="_blank" rel="noopener">↗️ Ouvrir dans un nouvel onglet</a>
 </p>
 
 <!-- Lecteur PDF natif du navigateur -->
 <iframe
-  src="https://ouaisfieu.github.io/dossiers/plaidoyer/dossier.pdf#toolbar=1"
+  src="https://www.justicepaix.be/wp-content/uploads/2021/10/20200110_Guide_plaidoyer_citoyen_VD.pdf#toolbar=1"
   width="100%"
   height="700"
   style="border:none;"
