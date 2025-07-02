@@ -34,6 +34,8 @@ header:
 
 ---
 
+> 🟦 [Nous suivre sur Bluesky](https://bsky.app/profile/ouaisfi.eu)
+{: .notice--info }
 
 
 # Introduction : « Savoir, c’est pouvoir… et responsabilité »
