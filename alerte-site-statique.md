@@ -89,14 +89,19 @@ json_ld: |
 ---
 
 
-# 🟥 ALERTE SITE STATIQUE 🟥
 
-> Est-ce que **je risque quelque chose** si je visite un **site statique** ? **Et pourquoi** j'en créerais **pas un moi aussi** /?\\
+
+> /!\ Est-ce que **je risque quelque chose** si je visite un **site statique** ? 
+**Et pourquoi** j'en créerais **pas un moi aussi** /?\\
 
 ``` groovy
 Réflexion durant 9 secondes
 
-L'utilisateur semble vouloir savoir si la visite d'un site statique comporte des risques, et pourquoi il ne créerait pas un tel site. Visiter un site statique présente peu de risques, mais il peut toujours y avoir des dangers tels que des attaques par script ou un code malveillant embarqué dans des ressources tierces. Créer un site statique peut être avantageux car c'est un projet à faible coût, idéal pour un portfolio et simple à mettre en place.
+L'utilisateur semble vouloir savoir si la visite d'un site statique comporte des risques,
+et pourquoi il ne créerait pas un tel site. Visiter un site statique présente peu de risques,
+mais il peut toujours y avoir des dangers tels que des attaques par script
+ou un code malveillant embarqué dans des ressources tierces.
+Créer un site statique peut être avantageux car c'est un projet à faible coût, idéal pour un portfolio et simple à mettre en place.
 
 Terminé
 ```
