@@ -1,13 +1,7 @@
-/* --- Force hamburger sur TOUS les écrans ----------------------------- */
-.greedy-nav .visible-links {
-  /* on leur enlève toute largeur → tout est déplacé dans hidden-links */
-  max-width: 0 !important;
-  flex: 0 0 0 !important;
-  overflow: hidden !important;
+/* Force le Greedy Nav à tout mettre dans le “hamburger” */
+.greedy-nav .visible-links{
+  max-width:0!important;flex:0 0 0!important;overflow:hidden!important;
 }
-
 .greedy-nav .navicon,
-.greedy-nav .hidden-links {
-  /* on s’assure que le bouton et la dropdown sont bien visibles */
-  display: block !important;
-}
+.greedy-nav .hidden-links{display:block!important;}
+
