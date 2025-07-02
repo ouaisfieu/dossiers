@@ -1,11 +1,18 @@
 main:
-  - title: "≡"
-    url: "#"
-    items:
-      - title: "Brol"
-        url: "https://ouaisfieu.github.io/dossiers/2025/06/30/citoyennete-droits-variations-engagement.html"
-      - title: "Nous"
-        url: "https://ouaisfieu.github.io/dossiers/2025/06/30/pourquoi-nous.html"
-      - title: "Plaidoyer"
-        url: "/plaidoyer/"
+ # - title: "Accueil"
+  #  url: "/"                  # sera préfixé par {{ site.baseurl }} (= /dossiers)
 
+#  - title: "Panorama"
+    # url: "/"                  # votre page d’accueil présente déjà les quatre dossiers
+
+ #  - title: "Blog"
+    # url: "/blog/"             # page d’archives automatique du thème
+
+  - title: "Brol"
+    url: "https://ouaisfieu.github.io/dossiers/2025/06/30/citoyennete-droits-variations-engagement.html"
+
+  - title: "Nous"
+    url: "https://ouaisfieu.github.io/dossiers/2025/06/30/pourquoi-nous.html"
+
+  - title: "Plaidoyer"
+    url: /plaidoyer/
