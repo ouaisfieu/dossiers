@@ -26,6 +26,11 @@ social:
     - "https://github.com/ouaisfieu"
     - "https://bsky.app/profile/ouaisfieu.bsky.social"
 
+# Ajout de feuilles perso
+minimal_mistakes:
+  custom_css:
+    - /assets/css/custom.css
+
 # --- Plugins (compatibles GitHub Pages) -------------------------------
 plugins:
   - jekyll-feed
