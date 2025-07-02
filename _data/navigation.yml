@@ -1,4 +1,9 @@
 main:
+  - title: "Bluesky"
+    url: "https://bsky.app/profile/ouaisfi.eu"
+  - title: "Plaidoyer"
+    url: /plaidoyer/
+
  # - title: "Accueil"
   #  url: "/"                  # sera préfixé par {{ site.baseurl }} (= /dossiers)
 
@@ -14,5 +19,4 @@ main:
   - title: "Nous"
     url: "https://ouaisfieu.github.io/dossiers/2025/06/30/pourquoi-nous.html"
 
-  - title: "Plaidoyer"
-    url: /plaidoyer/
+
