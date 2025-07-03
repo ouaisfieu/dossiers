@@ -1,6 +1,6 @@
 ---
 # 1. Titre et layout
-title: "🟥 ALERTE SITE STATIQUE 🟥"
+title: "🟩 ALERTE SITE STATIQUE"
 layout: single
 classes: wide
 permalink: /alerte-site-statique/
@@ -159,13 +159,13 @@ Obsidian Publish est idéal pour partager des notes interconnectées, des idées
 
 > est ce que notion offre la possibilité de faire un site statique ?
 
-Oui, **Notion propose une fonctionnalité appelée *Notion Sites***, qui permet de transformer n'importe quelle page Notion en un site web accessible au public. Cependant, il est important de noter que ces sites ne sont pas des sites *statiques* au sens traditionnel du terme (comme ceux générés par des outils tels que Hugo ou Jekyll).​[Notion+4Notion+4Medium+4](https://www.notion.com/help/public-pages-and-web-publishing?)
+Oui, **Notion propose une fonctionnalité appelée *Notion Sites***, qui permet de transformer n'importe quelle page Notion en un site web accessible au public. Cependant, il est important de noter que ces sites ne sont pas des sites *statiques* au sens traditionnel du terme (comme ceux générés par des outils tels que Hugo ou Jekyll).​[Notion](https://www.notion.com/help/public-pages-and-web-publishing?)
 
 ------------------------------------------------------------------------
 
 ### 🧩 Qu'est-ce que *Notion Sites* ?
 
-*Notion Sites* vous permet de publier rapidement une page Notion sur le web. Cette fonctionnalité est idéale pour partager des contenus tels que des CV, des portfolios, des blogs ou des pages de présentation.​[Latenode Official Community+1Notion+1](https://community.latenode.com/t/can-notion-api-be-used-to-publish-pages-to-the-web/11364?)
+*Notion Sites* vous permet de publier rapidement une page Notion sur le web. Cette fonctionnalité est idéale pour partager des contenus tels que des CV, des portfolios, des blogs ou des pages de présentation.​[latenode.com](https://community.latenode.com/t/can-notion-api-be-used-to-publish-pages-to-the-web/11364?)
 
 #### ✅ Avantages :
 
@@ -193,7 +193,7 @@ Si vous souhaitez bénéficier des avantages d'un site statique tout en utilisan
 
 #### 1. **Super.so**
 
-Super transforme vos pages Notion en sites web rapides et personnalisables. Il offre des fonctionnalités telles que :​[Reddit+10Super+10Medium+10](https://super.so/?)
+Super transforme vos pages Notion en sites web rapides et personnalisables. Il offre des fonctionnalités telles que :​[Super.so](https://super.so/?)
 
 - **Domaine personnalisé** : Utilisez votre propre nom de domaine.
 
@@ -201,15 +201,15 @@ Super transforme vos pages Notion en sites web rapides et personnalisables. Il o
 
 - **Personnalisation du design** : Ajoutez des barres de navigation, modifiez les polices et les couleurs.​
 
-Super est une solution payante, avec des plans à partir de 12 \$ par mois.​[Medium+1Super+1](https://medium.com/notion-spot/your-choice-of-tools-to-turn-a-notion-page-into-a-real-website-d0669b73a846?)
+Super est une solution payante, avec des plans à partir de 12 \$ par mois.​[Medium](https://medium.com/notion-spot/your-choice-of-tools-to-turn-a-notion-page-into-a-real-website-d0669b73a846?)
 
 #### 2. **Potion.so**
 
-Potion est une alternative à Super, offrant des fonctionnalités similaires pour transformer vos pages Notion en sites statiques. Il propose également des options de personnalisation et de performance améliorée.​[Medium+1Reddit+1](https://medium.com/notion-spot/your-choice-of-tools-to-turn-a-notion-page-into-a-real-website-d0669b73a846?)
+Potion est une alternative à Super, offrant des fonctionnalités similaires pour transformer vos pages Notion en sites statiques. Il propose également des options de personnalisation et de performance améliorée.​[Medium](https://medium.com/notion-spot/your-choice-of-tools-to-turn-a-notion-page-into-a-real-website-d0669b73a846?)
 
 #### 3. **Utiliser Notion avec un générateur de site statique**
 
-Pour les utilisateurs ayant des compétences techniques, il est possible d'utiliser Notion en combinaison avec des générateurs de sites statiques comme Gatsby ou Next.js. Cette approche implique :​[Super+2Reddit+2blog.kowalczyk.info+2](https://www.reddit.com/r/Notion/comments/jrg2gf/how_to_give_my_notion_public_page_a_free_custom/)
+Pour les utilisateurs ayant des compétences techniques, il est possible d'utiliser Notion en combinaison avec des générateurs de sites statiques comme Gatsby ou Next.js. Cette approche implique :​[Reddit](https://www.reddit.com/r/Notion/comments/jrg2gf/how_to_give_my_notion_public_page_a_free_custom/)
 
 - **Extraction du contenu** : Utiliser l'API de Notion pour récupérer le contenu des pages.
 
@@ -331,7 +331,7 @@ Voici la feuille de route la plus rapide et la moins coûteuse : commencez GRATU
 
 1.  **Créez un dossier `/00-Inbox`** pour les jets bruts et un dossier `/10-Articles` pour les notes destinées au public.
 
-2.  **Appliquez un modèle "note atomique"** : titre H1, résumé, tags, liens entrants/sortants. Le Zettelkasten préconise des notes courtes avec un seul concept. [Obsidian Forum](https://forum.obsidian.md/t/how-do-i-structure-notes-effectively-in-obsidian/49734?)[Obsidian Forum](https://forum.obsidian.md/t/organizing-and-integrating-notes/68988?)[Obsidian Forum](https://forum.obsidian.md/t/please-suggest-how-to-organise-notes/3722?)
+2.  **Appliquez un modèle "note atomique"** : titre H1, résumé, tags, liens entrants/sortants. Le Zettelkasten préconise des notes courtes avec un seul concept. [Obsidian Forum](https://forum.obsidian.md/t/how-do-i-structure-notes-effectively-in-obsidian/49734?), [Obsidian Forum](https://forum.obsidian.md/t/organizing-and-integrating-notes/68988?), [Obsidian Forum](https://forum.obsidian.md/t/please-suggest-how-to-organise-notes/3722?).
 
 3.  **Utilisez les tags et les aliases YAML** pour préparer des permaliens stables (utile quand vous migrerez).
 
