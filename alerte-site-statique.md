@@ -153,7 +153,7 @@ Pour faire **vite et/ou bien**:
 
 Sinon: **GitHub Pages** mais ça devient ***ardu* niveau technique et intermédiaire** pour le **grand public**.
 
-### 💡 Pourquoi envisager Obsidian Publish ?
+### 💡 Pourquoi envisager Obsidian Publish (payant) ?
 
 Obsidian Publish est idéal pour partager des notes interconnectées, des idées en cours de développement ou des ressources personnelles. Il offre une interface propre, une navigation fluide et la possibilité de personnaliser l'apparence de votre site. C'est une excellente option pour créer un site personnel, un blog ou un jardin numérique sans avoir besoin de compétences avancées en développement web.
 
@@ -221,13 +221,13 @@ Cette méthode offre un contrôle total sur le design et les fonctionnalités, m
 
 ------------------------------------------------------------------------
 
-### 🎯 Conclusion
+### 🎯 Conclusion sur Notion
 
 Bien que Notion permette de publier des pages sur le web via *Notion Sites*, ces sites ne sont pas des sites statiques au sens strict. Si vous recherchez une solution simple et rapide, *Notion Sites* peut suffire. Cependant, pour un contrôle accru sur le design, les performances et les fonctionnalités, envisager des alternatives comme Super, Potion ou l'intégration avec un générateur de site statique peut être plus approprié.​
 
 ------------------------------------------------------------------------
 
-
+## Obsidian Publish
 
 Il existe de nombreux sites créés avec **Obsidian Publish**, couvrant des domaines variés tels que les blogs, les portfolios, les journaux de recherche et les jardins numériques. Voici une sélection de sites pour vous inspirer :
 
@@ -235,29 +235,18 @@ Il existe de nombreux sites créés avec **Obsidian Publish**, couvrant des doma
 
 ### 🌐 Exemples de sites réalisés avec Obsidian Publish
 
-#### 1. [Fork My Brain](https://nicolevanderhoeven.com/)
 
-Un blog technique sur la performance logicielle et l'ingénierie de fiabilité, avec une structure claire et une utilisation efficace des liens internes.​
-
-#### 2. [Yomaru.dev](https://yomaru.dev)
+#### 1. [Yomaru.dev](https://yomaru.dev)
 
 Un site personnel bien conçu, mettant en avant des notes interconnectées et une navigation fluide.​
 
-#### 3. [Zach Daniel](https://zachdaniel.dev/)
-
-Un portfolio de développeur mettant en valeur des projets et des réflexions personnelles.​
-
-#### 4. [ObsidianTTRPGTutorials](https://obsidianttrpgtutorials.com/)
+#### 2. [ObsidianTTRPGTutorials](https://obsidianttrpgtutorials.com/)
 
 Un guide détaillé pour les jeux de rôle sur table, illustrant comment Obsidian peut être utilisé pour la documentation et les tutoriels.​
 
-#### 5. [The Integral Guide](https://IntegralGuide.com)
+#### 3. [The Integral Guide](https://IntegralGuide.com)
 
 Un jardin numérique axé sur la psychologie, la thérapie et la croissance personnelle, offrant une perspective unique sur l'utilisation d'Obsidian pour le développement personnel.​
-
-#### 6. [Kneecaps.org](https://kneecaps.org/)
-
-Un site mettant en avant des personnalisations CSS pour Obsidian Publish, offrant des idées pour personnaliser l'apparence de votre propre site.​
 
 #### 7. Rosie Campbell
 
@@ -275,7 +264,7 @@ Un exemple de structure Zettelkasten, principalement axé sur les statistiques e
 
 ### 🔍 Où trouver d'autres exemples ?
 
-- **Obsidian Hub** : Une collection organisée de sites créés avec Obsidian Publish, offrant des exemples et des modèles pour divers cas d'utilisation. ​[Obsidian](https://publish.obsidian.md/hub/03%2B-%2BShowcases%2B%26%2BTemplates/%F0%9F%97%82%EF%B8%8F%2B03%2B-%2BShowcases%2B%26%2BTemplates?)
+- **Obsidian Hub** : Une collection organisée de sites créés avec Obsidian Publish, offrant des exemples et des modèles pour divers cas d'utilisation. ​[Obsidian](https://publish.obsidian.md)
 
 - **Forum Obsidian** : De nombreux utilisateurs partagent leurs sites et expériences avec Obsidian Publish. ​
 
