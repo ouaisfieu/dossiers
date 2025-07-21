@@ -22,7 +22,7 @@ comments: false
 ## Ouaisfi.eu : l’essentiel
 
 **En deux phrases**  
-Ouaisfi.eu propose quatre dossiers critiques (échanges économiques, citoyenneté, sanctions, information & pouvoir d’agir). Tout est publié sous licence CC BY-SA 4.0 sur un site Jekyll hébergé gratuitement sur GitHub Pages.
+Ouaisfi.eu propose quatre dossiers critiques (échanges économiques, citoyenneté, sanctions, information & pouvoir d’agir). Tout est publié sous licence libre (à usage non commerciale) sur un site Jekyll hébergé gratuitement sur GitHub Pages.
 
 ---
 
