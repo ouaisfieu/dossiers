@@ -47,7 +47,7 @@ Ce panorama national révèle un foisonnement d’initiatives :
 
 👉 Un écosystème en construction, à la croisée des chemins entre participation, transparence et souveraineté numérique.
 
-📘 Lire le dossier complet ici : [https://ouaisfi.eu](https://ouaisfi.eu/viewtopic.php?t=63)
+📘 Lire le dossier complet ici : [https://ouaisfi.eu](https://ouaisfi.eu/myspot/open-data)
 
 ---
 
