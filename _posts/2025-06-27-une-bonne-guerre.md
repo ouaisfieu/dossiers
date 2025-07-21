@@ -44,7 +44,7 @@ Prenons l’exemple des sanctions internationales :
 
 💬 Ce dossier ne se limite pas à un constat. Il ouvre aussi des pistes : comment les sociétés civiles peuvent-elles **résister à ces formes de domination économique** ?
 
-📘 Lire l’analyse complète ici : [https://ouaisfi.eu/](https://ouaisfi.eu/viewtopic.php?t=86)
+
 
 ---
 
