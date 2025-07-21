@@ -41,7 +41,7 @@ Le dossier **« La guerre cognitive »**, disponible sur notre forum, décrypte 
 
 👉 Une véritable invitation à la **vigilance vis-à-vis de notre propre perception**, et à repenser nos pratiques de vérification.
 
-📘 Lire le dossier complet ici : [https://ouaisfi.eu](https://ouaisfi.eu/viewtopic.php?t=64)
+
 
 ---
 
