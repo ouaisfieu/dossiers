@@ -127,4 +127,4 @@ La citoyenneté contemporaine oscille entre protection et contrôle, inclusion e
 
 ## Lien externe
 
-Arpentage sur [ouaisfi.eu](https://ouaisfi.eu/viewtopic.php?p=671&sid=12d1c28d21fb53a6dee6605c37f5d062#p671)
+
