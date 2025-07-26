@@ -43,6 +43,7 @@ Ce phénomène porte un nom : **surcharge informationnelle**, aussi appelée **i
 
 Et surtout, il propose des pistes pour **reprendre le contrôle** : hygiène informationnelle, sobriété numérique, sélection des sources fiables.
 
+[Lien](https://ouaisfi.eu/my-space/trop-dinfo)
 
 ---
 
